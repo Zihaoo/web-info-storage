@@ -1,0 +1,2 @@
+# web-info-storage
+storage
