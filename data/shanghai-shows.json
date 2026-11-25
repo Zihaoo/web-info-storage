@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "city": "上海",
+  "timezone": "Asia/Shanghai",
+  "shows": [
+    {
+      "id": "tizzyt-shanghai-20261205",
+      "artist": "TizzyT",
+      "title": "流行",
+      "date": "2026-12-05",
+      "time": "19:00",
+      "venue": "浦发银行东方体育中心",
+      "district": "浦东新区",
+      "genre": "Hip-Hop",
+      "sourceUrl": "https://www.sina.cn/news/detail/5365883565248470.html",
+      "updates": [
+        {
+          "at": "2026-11-19T14:00:00+08:00",
+          "type": "二次开票",
+          "sourceUrl": "https://www.sina.cn/news/detail/5365883565248470.html"
+        }
+      ]
+    },
+    {
+      "id": "chillsenone-shanghai-20261212",
+      "artist": "CHILLSENONE 恒儿哥",
+      "title": "突围",
+      "date": "2026-12-12",
+      "time": "20:00",
+      "venue": "7HERTZ LIVE",
+      "district": "闵行区",
+      "genre": "Hip-Hop",
+      "sourceUrl": "https://www.showstart.com/event/315891",
+      "updates": [
+        {
+          "at": "2026-11-18T20:00:00+08:00",
+          "type": "首次开票",
+          "sourceUrl": "https://m.weibo.cn/2/detail/5366663748258214"
+        }
+      ]
+    }
+  ]
+}
