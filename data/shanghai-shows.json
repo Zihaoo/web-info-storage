@@ -40,6 +40,67 @@
       ],
       "posterUrl": "https://s2.showstart.com/img/2026/1113/00/00/8cb069d93121f999276e7cd7969965d9_1280_1707_324439.0x0.jpg",
       "posterSourceUrl": "https://www.showstart.com/event/315891"
+    },
+    {
+      "id": "ar-liufuyang-shanghai-20261220",
+      "artist": "AR刘夫阳、Cee",
+      "title": "校园流行用手机",
+      "date": "2026-12-20",
+      "time": "19:30",
+      "venue": "瓦肆 VAS ear（普陀店）",
+      "district": "普陀区",
+      "genre": "Hip-Hop",
+      "price": "普通票 198 元，VIP 票 238 元",
+      "sourceUrl": "https://www.showstart.com/event/315503",
+      "updates": []
+    },
+    {
+      "id": "step-jad-shanghai-20270124",
+      "artist": "step.jad依加",
+      "title": "NIGHTSTEP夜奔·超感世界",
+      "date": "2027-01-24",
+      "time": "19:30",
+      "venue": "PHASE 蜚声 LIVEHOUSE",
+      "district": "静安区",
+      "genre": "Hip-Hop",
+      "price": "普票 288 元，VIP 票 388 元",
+      "sourceUrl": "https://www.showstart.com/event/315730",
+      "updates": [
+        {
+          "type": "上海站官宣",
+          "at": "2026-11-13T12:00:00+08:00",
+          "sourceUrl": "https://m.weibo.cn/2/detail/5364762180321379"
+        },
+        {
+          "type": "首次开票",
+          "at": "2026-11-20T12:00:00+08:00",
+          "sourceUrl": "https://m.weibo.cn/2/detail/5364762180321379"
+        }
+      ]
+    },
+    {
+      "id": "ari-hicks-shanghai-20270127",
+      "artist": "Ari Hicks",
+      "title": "Everything, but Tour 2027",
+      "date": "2027-01-27",
+      "time": "20:00",
+      "venue": "星临天下（滨港商业中心店）",
+      "district": "虹口区",
+      "genre": "欧美流行",
+      "price": "全价票 220 元，优先入场票 260 元，VIP 票 660 元",
+      "sourceUrl": "https://www.showstart.com/event/316691",
+      "updates": [
+        {
+          "type": "上海站官宣",
+          "at": "2026-11-24T18:00:00+08:00",
+          "sourceUrl": "https://www.sina.cn/news/detail/5368838885478748.html"
+        },
+        {
+          "type": "首次开票",
+          "at": "2026-11-27T16:00:00+08:00",
+          "sourceUrl": "https://www.sina.cn/news/detail/5368838885478748.html"
+        }
+      ]
     }
   ]
 }
