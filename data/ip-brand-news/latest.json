@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "syncedAt": "2026-11-27T01:15:57.441Z",
+  "syncedAt": "2026-11-27T01:17:09.778Z",
   "health": [
     {
       "id": "gsc",
@@ -7491,7 +7491,7 @@
     },
     {
       "sourceId": "bandai",
-      "title": "まるで、香りのドレス。ラメがきらめくボディソープで　特別なバスタイムに。香りドレスボディソープ　ラプンツェル　/　エルサ",
+      "title": "让香气像礼服一样包裹全身：乐佩与艾莎主题沐浴露加入闪粉，为沐浴时光添一抹微光",
       "originalTitle": "まるで、香りのドレス。ラメがきらめくボディソープで　特別なバスタイムに。香りドレスボディソープ　ラプンツェル　/　エルサ",
       "url": "https://prtimes.jp/main/html/rd/p/000000874.000055569.html",
       "publishedAt": "2026-03-09T03:00:01.000Z",
@@ -7500,11 +7500,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "バイクウェアのKUSHITANIコラボレーション2026年SS展開『機動戦士ガンダム』『機動戦士ガンダム閃光のハサウェイ キルケーの魔女』からライディングギアの新作が登場!!",
+      "title": "摩托车服饰品牌 KUSHITANI 2026春夏联名系列推出《机动战士高达》《机动战士高达 闪光的哈萨维 喀耳刻的魔女》新款骑行装备",
       "originalTitle": "バイクウェアのKUSHITANIコラボレーション2026年SS展開『機動戦士ガンダム』『機動戦士ガンダム閃光のハサウェイ キルケーの魔女』からライディングギアの新作が登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000000876.000055569.html",
       "publishedAt": "2026-03-06T01:30:02.000Z",
@@ -7515,11 +7516,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より、ユーズドスタイルのMS（モビルスーツ）柄Tシャツが登場！",
+      "title": "《机动战士高达 闪光的哈萨维 喀耳刻的魔女》推出做旧风机动战士图案 T 恤",
       "originalTitle": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より、ユーズドスタイルのMS（モビルスーツ）柄Tシャツが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000877.000055569.html",
       "publishedAt": "2026-03-06T01:00:02.000Z",
@@ -7530,11 +7532,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "劇場公開中の『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』よりリップストップジャケット、刺繍Tシャツなど新作アイテムが続々登場！",
+      "title": "正在上映的《机动战士高达 闪光的哈萨维 喀耳刻的魔女》陆续推出防撕裂夹克、刺绣 T 恤等新品",
       "originalTitle": "劇場公開中の『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』よりリップストップジャケット、刺繍Tシャツなど新作アイテムが続々登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000878.000055569.html",
       "publishedAt": "2026-03-05T01:30:02.000Z",
@@ -7545,11 +7548,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "STRICT-G×EDWIN”スゴイラク”な「JERSEYS」より『機動戦士ガンダム』からルーズシルエットの新作デニムパンツが登場！",
+      "title": "STRICT-G 与 EDWIN 的舒适 JERSEYS 系列推出《机动战士高达》宽松版型牛仔裤",
       "originalTitle": "STRICT-G×EDWIN”スゴイラク”な「JERSEYS」より『機動戦士ガンダム』からルーズシルエットの新作デニムパンツが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000879.000055569.html",
       "publishedAt": "2026-03-05T01:00:02.000Z",
@@ -7560,11 +7564,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "サンリオ、スポーツに笑顔を広げる新ブランド「Sanrio Sports」を展開　～ジャパンゴルフフェア2026に出展～",
+      "title": "三丽鸥推出运动品牌 Sanrio Sports，希望让笑容随运动传递，并将参展日本高尔夫展2026",
       "originalTitle": "サンリオ、スポーツに笑顔を広げる新ブランド「Sanrio Sports」を展開　～ジャパンゴルフフェア2026に出展～",
       "url": "https://prtimes.jp/main/html/rd/p/000000724.000037629.html",
       "publishedAt": "2026-03-02T04:00:02.000Z",
@@ -7576,11 +7581,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/724/resize/d37629-724-1b84a1c68fca9a0a700a-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/724/resize/d37629-724-1b84a1c68fca9a0a700a-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ』より、トリニティの生徒会組織「ティーパーティー」所属の「聖園ミカ」がねんどろいどで再登場です！",
+      "title": "《蔚蓝档案》圣三一学生会组织“茶话会”成员圣园未花的黏土人再度登场",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ』より、トリニティの生徒会組織「ティーパーティー」所属の「聖園ミカ」がねんどろいどで再登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000979.000042572.html",
       "publishedAt": "2026-02-27T07:08:37.000Z",
@@ -7590,11 +7596,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/979/resize/d42572-979-241cd669ae0d68fe99bd-1.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/979/resize/d42572-979-241cd669ae0d68fe99bd-1.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『学園アイドルマスター』とgladgarbがコラボレーション！十王星南の楽曲や衣装をモチーフに6アイテムを発表",
+      "title": "《学园偶像大师》与 gladgarb 公布六款联名商品，灵感来自十王星南的歌曲与演出服",
       "originalTitle": "『学園アイドルマスター』とgladgarbがコラボレーション！十王星南の楽曲や衣装をモチーフに6アイテムを発表",
       "url": "https://prtimes.jp/main/html/rd/p/000000875.000055569.html",
       "publishedAt": "2026-02-27T03:10:01.000Z",
@@ -7604,11 +7611,12 @@
       "brands": [
         "万代"
       ],
-      "thumbnail": "https://prtimes.jp/i/55569/875/resize/d55569-875-1cff76d3cb6918c922fb-17.jpg"
+      "thumbnail": "https://prtimes.jp/i/55569/875/resize/d55569-875-1cff76d3cb6918c922fb-17.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "劇場公開中の『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より大胆な刺繍デザインが際立つリバーシブル仕様のスカジャンが登場！",
+      "title": "正在上映的《机动战士高达 闪光的哈萨维 喀耳刻的魔女》推出双面横须贺夹克，采用醒目的刺绣设计",
       "originalTitle": "劇場公開中の『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より大胆な刺繍デザインが際立つリバーシブル仕様のスカジャンが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000868.000055569.html",
       "publishedAt": "2026-02-27T01:30:02.000Z",
@@ -7619,11 +7627,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より、フランス発祥の「PATRICK」コラボスニーカー登場！",
+      "title": "《机动战士高达 闪光的哈萨维 喀耳刻的魔女》与源自法国的品牌 PATRICK 推出联名运动鞋",
       "originalTitle": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より、フランス発祥の「PATRICK」コラボスニーカー登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000869.000055569.html",
       "publishedAt": "2026-02-27T01:00:02.000Z",
@@ -7634,11 +7643,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "「みんななかよく」を発信、サンリオファン懐かしの空間が登場！「いちごのお家」が3月6日(金)より期間限定オープン",
+      "title": "传递“大家和睦相处”的理念，再现三丽鸥粉丝记忆中的空间：“草莓小屋”将于3月6日（周五）起限时开放",
       "originalTitle": "「みんななかよく」を発信、サンリオファン懐かしの空間が登場！「いちごのお家」が3月6日(金)より期間限定オープン",
       "url": "https://prtimes.jp/main/html/rd/p/000000723.000037629.html",
       "publishedAt": "2026-02-26T07:52:03.000Z",
@@ -7650,11 +7660,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/723/resize/d37629-723-afe4d4e9cb6dc45376f0-0.png"
+      "thumbnail": "https://prtimes.jp/i/37629/723/resize/d37629-723-afe4d4e9cb6dc45376f0-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "TVアニメ『東京リベンジャーズ 』完全新作スマ-トフォンゲーム『東京リベンジャーズUNLIMITED（アンリベ）』が 正式サービスを開始！リリース記念特別キャンペーンも開催中！",
+      "title": "《东京复仇者》全新手游《东京复仇者 UNLIMITED》正式上线，开服特别纪念活动同步举行",
       "originalTitle": "TVアニメ『東京リベンジャーズ 』完全新作スマ-トフォンゲーム『東京リベンジャーズUNLIMITED（アンリベ）』が 正式サービスを開始！リリース記念特別キャンペーンも開催中！",
       "url": "https://prtimes.jp/main/html/rd/p/000000984.000042572.html",
       "publishedAt": "2026-02-26T03:00:02.000Z",
@@ -7664,11 +7675,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/984/resize/d42572-984-9dfa1ad8304f658b964c-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/984/resize/d42572-984-9dfa1ad8304f658b964c-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "「刀剣乱舞ONLINE」好評のヘアミルクの第三弾が登場！",
+      "title": "《刀剑乱舞ONLINE》推出人气护发乳系列第三弹",
       "originalTitle": "「刀剣乱舞ONLINE」好評のヘアミルクの第三弾が登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000873.000055569.html",
       "publishedAt": "2026-02-25T03:00:02.000Z",
@@ -7677,11 +7689,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気恋愛ADV『ネコぱら』シリーズのスマホ版リメイク『ネコぱら ラブプロジェクトVol.4』本日リリース！",
+      "title": "人气恋爱冒险游戏《猫娘乐园》系列手游重制版《猫娘乐园 Love Project Vol.4》今日上线",
       "originalTitle": "大人気恋愛ADV『ネコぱら』シリーズのスマホ版リメイク『ネコぱら ラブプロジェクトVol.4』本日リリース！",
       "url": "https://prtimes.jp/main/html/rd/p/000000983.000042572.html",
       "publishedAt": "2026-02-22T03:00:01.000Z",
@@ -7691,11 +7704,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/983/resize/d42572-983-315a784e238e6f12bd80-0.png"
+      "thumbnail": "https://prtimes.jp/i/42572/983/resize/d42572-983-315a784e238e6f12bd80-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』、『機動戦士ガンダム 逆襲のシャア』より、ナイロンパーカーが登場！",
+      "title": "《机动战士高达 闪光的哈萨维 喀耳刻的魔女》《机动战士高达 逆袭的夏亚》推出尼龙连帽外套",
       "originalTitle": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』、『機動戦士ガンダム 逆襲のシャア』より、ナイロンパーカーが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000867.000055569.html",
       "publishedAt": "2026-02-20T01:00:02.000Z",
@@ -7706,11 +7720,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ』より、トリニティ総合学園所属、ティーパーティーの「セイア」がねんどろいどで登場です！",
+      "title": "《蔚蓝档案》推出圣三一综合学园“茶话会”成员圣娅的黏土人",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ』より、トリニティ総合学園所属、ティーパーティーの「セイア」がねんどろいどで登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000980.000042572.html",
       "publishedAt": "2026-02-17T03:02:47.000Z",
@@ -7720,11 +7735,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/980/resize/d42572-980-95ac5ddc9aa37fa11cc9-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/980/resize/d42572-980-95ac5ddc9aa37fa11cc9-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "オリジナル美少女プラモデルプロジェクト『VALKYRIE TUNE』ビジュアルノベルゲームSteamストアがオープン！さらに第一弾商品「リサ」「アイリス」近日発売！",
+      "title": "原创美少女拼装模型企划《VALKYRIE TUNE》视觉小说游戏的 Steam 商店页面上线，首批商品“莉莎”和“爱丽丝”也将于近期发售",
       "originalTitle": "オリジナル美少女プラモデルプロジェクト『VALKYRIE TUNE』ビジュアルノベルゲームSteamストアがオープン！さらに第一弾商品「リサ」「アイリス」近日発売！",
       "url": "https://prtimes.jp/main/html/rd/p/000000982.000042572.html",
       "publishedAt": "2026-02-16T06:00:01.000Z",
@@ -7734,11 +7750,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/982/resize/d42572-982-1e2c8a793c605044db2f-11.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/982/resize/d42572-982-1e2c8a793c605044db2f-11.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "さあ そのたからばこをあけ たびのしたくをととのえるがよい！「ドラゴンクエスト」シリーズのびっくらたまごが初登場!!",
+      "title": "打开宝箱，准备踏上旅程！《勇者斗恶龙》系列首次推出“びっくらたまご”惊喜入浴球",
       "originalTitle": "さあ そのたからばこをあけ たびのしたくをととのえるがよい！「ドラゴンクエスト」シリーズのびっくらたまごが初登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000000862.000055569.html",
       "publishedAt": "2026-02-16T01:00:02.000Z",
@@ -7747,11 +7764,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "Lil ala mode×SAMANTHAVEGAコラボレーションアイテムが新登場！",
+      "title": "Lil ala mode 与 SAMANTHAVEGA 推出联名新品",
       "originalTitle": "Lil ala mode×SAMANTHAVEGAコラボレーションアイテムが新登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000866.000055569.html",
       "publishedAt": "2026-02-13T01:00:03.000Z",
@@ -7760,11 +7778,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "STRICT-G『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』上映記念アイテム登場!!",
+      "title": "STRICT-G 推出《机动战士高达 闪光的哈萨维 喀耳刻的魔女》上映纪念商品",
       "originalTitle": "STRICT-G『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』上映記念アイテム登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000000865.000055569.html",
       "publishedAt": "2026-02-13T01:00:03.000Z",
@@ -7775,11 +7794,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "シナモロールの誕生日をお祝いする体験型イベント「シナモロール そらいろキッズパーティ」　2月27日(金)より池袋・サンシャイン60展望台 てんぼうパークで開催",
+      "title": "为大耳狗庆生的互动活动“大耳狗 天蓝色儿童派对”将于2月27日（周五）起在池袋阳光60展望台天望公园举办",
       "originalTitle": "シナモロールの誕生日をお祝いする体験型イベント「シナモロール そらいろキッズパーティ」　2月27日(金)より池袋・サンシャイン60展望台 てんぼうパークで開催",
       "url": "https://prtimes.jp/main/html/rd/p/000000722.000037629.html",
       "publishedAt": "2026-02-12T03:00:02.000Z",
@@ -7791,11 +7811,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/722/resize/d37629-722-4c52b97b6be7504269c0-9.png"
+      "thumbnail": "https://prtimes.jp/i/37629/722/resize/d37629-722-4c52b97b6be7504269c0-9.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "来場・購買体験の思い出をデジタルアイテムとして残せる、スマートフォン向けアプリ「Omoide Badge(オモイデバッジ)」2026年2月10日(火)より提供開始",
+      "title": "可将到场与购物回忆保存为数字纪念品的手机应用 Omoide Badge 将于2026年2月10日（周二）上线",
       "originalTitle": "来場・購買体験の思い出をデジタルアイテムとして残せる、スマートフォン向けアプリ「Omoide Badge(オモイデバッジ)」2026年2月10日(火)より提供開始",
       "url": "https://prtimes.jp/main/html/rd/p/000000720.000037629.html",
       "publishedAt": "2026-02-10T02:00:02.000Z",
@@ -7807,11 +7828,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/720/resize/d37629-720-d08334326f385e89957a-0.png"
+      "thumbnail": "https://prtimes.jp/i/37629/720/resize/d37629-720-d08334326f385e89957a-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "【展示総数1,000点以上！】グッドスマイルカンパニー主催のフィギュアイベント『グッドスマイルフェス』が東京・大阪で開催！",
+      "title": "展品逾1000件！Good Smile Company 主办的手办活动 Good Smile Fest 将在东京与大阪举行",
       "originalTitle": "【展示総数1,000点以上！】グッドスマイルカンパニー主催のフィギュアイベント『グッドスマイルフェス』が東京・大阪で開催！",
       "url": "https://prtimes.jp/main/html/rd/p/000000977.000042572.html",
       "publishedAt": "2026-02-08T01:10:01.000Z",
@@ -7821,11 +7843,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/977/resize/d42572-977-b3e5a99d8ea9aaaa2174-11.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/977/resize/d42572-977-b3e5a99d8ea9aaaa2174-11.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "誕生55周年！世界累計2.5億冊超の英国絵本キャラクター「ミスターメン リトルミス」日本初旗艦店「MR. MEN LITTLE MISS MARKET 原宿店」2月13日(金)オープン",
+      "title": "全球累计销量超过2.5亿册的英国绘本《奇先生妙小姐》迎来55周年，日本首家旗舰店 MR. MEN LITTLE MISS MARKET 原宿店将于2月13日（周五）开业",
       "originalTitle": "誕生55周年！世界累計2.5億冊超の英国絵本キャラクター「ミスターメン リトルミス」日本初旗艦店「MR. MEN LITTLE MISS MARKET 原宿店」2月13日(金)オープン",
       "url": "https://prtimes.jp/main/html/rd/p/000000718.000037629.html",
       "publishedAt": "2026-02-06T03:00:01.000Z",
@@ -7837,11 +7860,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/718/resize/d37629-718-fd43a08320fbd610d898-0.png"
+      "thumbnail": "https://prtimes.jp/i/37629/718/resize/d37629-718-fd43a08320fbd610d898-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "アンパンマンとなかまたちのデザインのTシャツやチュニックが続々登場！初夏らしい爽やかなシャツやカーディガンなどこれからの季節に便利な羽織物も！",
+      "title": "面包超人与伙伴们的图案 T 恤、长款上衣陆续登场，另有适合初夏叠穿的清爽衬衫与开衫",
       "originalTitle": "アンパンマンとなかまたちのデザインのTシャツやチュニックが続々登場！初夏らしい爽やかなシャツやカーディガンなどこれからの季節に便利な羽織物も！",
       "url": "https://prtimes.jp/main/html/rd/p/000000864.000055569.html",
       "publishedAt": "2026-02-06T01:00:02.000Z",
@@ -7850,11 +7874,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より、マフティーメンバー着用イメージのTシャツが登場！",
+      "title": "《机动战士高达 闪光的哈萨维 喀耳刻的魔女》推出以马夫蒂成员穿着为灵感的 T 恤",
       "originalTitle": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より、マフティーメンバー着用イメージのTシャツが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000863.000055569.html",
       "publishedAt": "2026-02-06T01:00:02.000Z",
@@ -7865,11 +7890,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ』より、トリニティ総合学園所属、補習授業部の一員「コハル」がねんどろいどで登場です！",
+      "title": "《蔚蓝档案》推出圣三一综合学园补习部成员小春的黏土人",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ』より、トリニティ総合学園所属、補習授業部の一員「コハル」がねんどろいどで登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000975.000042572.html",
       "publishedAt": "2026-02-05T10:39:08.000Z",
@@ -7879,11 +7905,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/975/resize/d42572-975-af674e5ec00e0db9d9e9-1.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/975/resize/d42572-975-af674e5ec00e0db9d9e9-1.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『超宇宙刑事ギャバン インフィニティ』や『仮面ライダーゼッツ』、『名探偵プリキュア！』の「光るキャラねる袋」が総計400名に当たる！「光るパジャマ」購入キャンペーンが開始！",
+      "title": "购买“发光睡衣”可抽《超宇宙刑事卡邦 Infinity》《假面骑士ZEZTZ》《名侦探光之美少女！》主题夜光角色睡袋，共400个名额",
       "originalTitle": "『超宇宙刑事ギャバン インフィニティ』や『仮面ライダーゼッツ』、『名探偵プリキュア！』の「光るキャラねる袋」が総計400名に当たる！「光るパジャマ」購入キャンペーンが開始！",
       "url": "https://prtimes.jp/main/html/rd/p/000000861.000055569.html",
       "publishedAt": "2026-02-05T06:00:02.000Z",
@@ -7894,11 +7921,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "サンリオが監修するマッシュグループの新ブランドオフィシャルストア「sanrio house(サンリオハウス)」がローンチ！2026年3月6日(金)、新宿に1号店をオープン",
+      "title": "MASH 集团推出由三丽鸥监修的新品牌官方商店 sanrio house，首店将于2026年3月6日（周五）在新宿开业",
       "originalTitle": "サンリオが監修するマッシュグループの新ブランドオフィシャルストア「sanrio house(サンリオハウス)」がローンチ！2026年3月6日(金)、新宿に1号店をオープン",
       "url": "https://prtimes.jp/main/html/rd/p/000000717.000037629.html",
       "publishedAt": "2026-02-05T05:00:02.000Z",
@@ -7910,11 +7938,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/717/resize/d37629-717-358b6e020bf50523850b-6.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/717/resize/d37629-717-358b6e020bf50523850b-6.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "初の対バンツアー、涙の完走！「自分への愛さえあれば、 アンタはアンタの人生の主人公」　KUROMI 東名阪 Zepp TOUR 2026 「KUROMI IN MY HEAD」ファイナル",
+      "title": "库洛米首次拼盘巡演感动收官：东京、名古屋、大阪 Zepp TOUR 2026「KUROMI IN MY HEAD」终场寄语“只要爱自己，你就是自己人生的主角”",
       "originalTitle": "初の対バンツアー、涙の完走！「自分への愛さえあれば、 アンタはアンタの人生の主人公」　KUROMI 東名阪 Zepp TOUR 2026 「KUROMI IN MY HEAD」ファイナル",
       "url": "https://prtimes.jp/main/html/rd/p/000000715.000037629.html",
       "publishedAt": "2026-02-02T01:00:02.000Z",
@@ -7926,11 +7955,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/715/resize/d37629-715-980bc405c178a89a28ef-9.png"
+      "thumbnail": "https://prtimes.jp/i/37629/715/resize/d37629-715-980bc405c178a89a28ef-9.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム』×〈Dickies(R)〉STRICT-GとDickies(R)の初のコラボレーション！！",
+      "title": "《机动战士高达》× Dickies：STRICT-G 与 Dickies 首次联名",
       "originalTitle": "『機動戦士ガンダム』×〈Dickies(R)〉STRICT-GとDickies(R)の初のコラボレーション！！",
       "url": "https://prtimes.jp/main/html/rd/p/000000859.000055569.html",
       "publishedAt": "2026-01-30T01:30:01.000Z",
@@ -7941,11 +7971,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『STRICT-G』×『GUNDAM CARD GAME』コラボTシャツが登場！",
+      "title": "STRICT-G 与 GUNDAM CARD GAME 推出联名 T 恤",
       "originalTitle": "『STRICT-G』×『GUNDAM CARD GAME』コラボTシャツが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000858.000055569.html",
       "publishedAt": "2026-01-30T01:00:01.000Z",
@@ -7956,11 +7987,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ』より、アビドス高等学校所属、対策委員会の委員長「ホシノ」がねんどろいどで再登場です！",
+      "title": "《蔚蓝档案》阿拜多斯高中对策委员会委员长星野的黏土人再度登场",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ』より、アビドス高等学校所属、対策委員会の委員長「ホシノ」がねんどろいどで再登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000964.000042572.html",
       "publishedAt": "2026-01-29T03:06:19.000Z",
@@ -7970,11 +8002,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/964/resize/d42572-964-ae00bc732d3e31e154e3-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/964/resize/d42572-964-ae00bc732d3e31e154e3-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "ねんどろいどの新作情報を一挙発表！「ねんどろいどFUNS 2026 WINTER」が2月5日(木)配信決定！",
+      "title": "“黏土人 FUNS 2026 WINTER”将于2月5日（周四）播出，集中公布黏土人新品",
       "originalTitle": "ねんどろいどの新作情報を一挙発表！「ねんどろいどFUNS 2026 WINTER」が2月5日(木)配信決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000000976.000042572.html",
       "publishedAt": "2026-01-27T08:07:57.000Z",
@@ -7983,11 +8016,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "ねんどろいどフェイスメーカーで『レーシングミク』コラボ開催！コラボ限定のねんどろいど表情パーツ全6種を販売中",
+      "title": "黏土人 Face Maker 与 Racing Miku 联动，六款限定表情配件发售中",
       "originalTitle": "ねんどろいどフェイスメーカーで『レーシングミク』コラボ開催！コラボ限定のねんどろいど表情パーツ全6種を販売中",
       "url": "https://prtimes.jp/main/html/rd/p/000000978.000042572.html",
       "publishedAt": "2026-01-27T08:00:02.000Z",
@@ -7997,11 +8031,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/978/resize/d42572-978-3d37180b5010910a1849-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/978/resize/d42572-978-3d37180b5010910a1849-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "サンリオが手掛けるCoComelon新作動画『CoComelon Playdates with Sanrio Friends』1月24日より公開！　日本版公式サイトも同時オープン！",
+      "title": "三丽鸥制作的 CoComelon 新视频《CoComelon Playdates with Sanrio Friends》将于1月24日起公开，日本官网同步上线",
       "originalTitle": "サンリオが手掛けるCoComelon新作動画『CoComelon Playdates with Sanrio Friends』1月24日より公開！　日本版公式サイトも同時オープン！",
       "url": "https://prtimes.jp/main/html/rd/p/000000714.000037629.html",
       "publishedAt": "2026-01-24T13:00:01.000Z",
@@ -8013,11 +8048,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/714/resize/d37629-714-53c802025fa43e174fdc-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/714/resize/d37629-714-53c802025fa43e174fdc-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "放映開始から10周年『機動戦士ガンダム 鉄血のオルフェンズ』コレクタブルピンズセットが登場！",
+      "title": "《机动战士高达 铁血的奥尔芬斯》开播十周年，推出收藏徽章套装",
       "originalTitle": "放映開始から10周年『機動戦士ガンダム 鉄血のオルフェンズ』コレクタブルピンズセットが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000857.000055569.html",
       "publishedAt": "2026-01-23T01:30:01.000Z",
@@ -8028,11 +8064,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 閃光のハサウェイ』のキービジュアルTシャツが登場！",
+      "title": "《机动战士高达 闪光的哈萨维》推出主视觉图 T 恤",
       "originalTitle": "『機動戦士ガンダム 閃光のハサウェイ』のキービジュアルTシャツが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000856.000055569.html",
       "publishedAt": "2026-01-23T01:00:02.000Z",
@@ -8043,11 +8080,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "30周年を迎えたポムポムプリンでJR山手線をラッピング！1月17日(土)よりラッピング電車運行中！通勤・通学など日常の移動時間に癒しをお届け！",
+      "title": "庆祝布丁狗30周年，JR 山手线布丁狗主题彩绘列车自1月17日（周六）起运行，为通勤、通学的日常路程带去陪伴",
       "originalTitle": "30周年を迎えたポムポムプリンでJR山手線をラッピング！1月17日(土)よりラッピング電車運行中！通勤・通学など日常の移動時間に癒しをお届け！",
       "url": "https://prtimes.jp/main/html/rd/p/000000713.000037629.html",
       "publishedAt": "2026-01-19T01:00:02.000Z",
@@ -8059,11 +8097,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/713/resize/d37629-713-1c56e6fb05d4efcddb6d-2.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/713/resize/d37629-713-1c56e6fb05d4efcddb6d-2.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "初版本を復刻！やなせたかし氏とサンリオ初の詩集本　『詩集　愛する歌』 2026年4月発売決定",
+      "title": "柳濑嵩与三丽鸥合作的首部诗集《愛する歌》将复刻初版，确定于2026年4月发售",
       "originalTitle": "初版本を復刻！やなせたかし氏とサンリオ初の詩集本　『詩集　愛する歌』 2026年4月発売決定",
       "url": "https://prtimes.jp/main/html/rd/p/000000711.000037629.html",
       "publishedAt": "2026-01-16T01:00:02.000Z",
@@ -8075,11 +8114,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/711/resize/d37629-711-97a8a344da8e7c926a99-4.png"
+      "thumbnail": "https://prtimes.jp/i/37629/711/resize/d37629-711-97a8a344da8e7c926a99-4.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "1/15(木)から開催「好きにすなおに生きてみる展 WITH MY MELODY」プレス発表会",
+      "title": "1月15日（周四）起举办的美乐蒂主题展“坦诚面对喜好，试着这样生活”举行媒体发布会",
       "originalTitle": "1/15(木)から開催「好きにすなおに生きてみる展 WITH MY MELODY」プレス発表会",
       "url": "https://prtimes.jp/main/html/rd/p/000000710.000037629.html",
       "publishedAt": "2026-01-15T08:06:53.000Z",
@@ -8090,11 +8130,12 @@
       ],
       "brands": [
         "三丽鸥"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "メカスマが贈るロボットトイ『BRICKROID (ブリックロイド)』からグレートマジンガー、鋼鉄ジーグのキャラクターが登場！",
+      "title": "MECHA SMILE 机器人玩具系列 BRICKROID 推出大魔神与钢铁吉克角色新品",
       "originalTitle": "メカスマが贈るロボットトイ『BRICKROID (ブリックロイド)』からグレートマジンガー、鋼鉄ジーグのキャラクターが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000972.000042572.html",
       "publishedAt": "2026-01-15T03:06:52.000Z",
@@ -8104,11 +8145,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/972/resize/d42572-972-fcfadd2a9582a5114ba2-9.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/972/resize/d42572-972-fcfadd2a9582a5114ba2-9.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "総来場者数1,000万人超えのVR音楽フェスが今年も開催決定！「Sanrio Virtual Festival 2026」出演アーティスト全28組を発表！",
+      "title": "累计观众超过1000万人次的 VR 音乐节确定再度举办，Sanrio Virtual Festival 2026 公布全部28组参演艺人",
       "originalTitle": "総来場者数1,000万人超えのVR音楽フェスが今年も開催決定！「Sanrio Virtual Festival 2026」出演アーティスト全28組を発表！",
       "url": "https://prtimes.jp/main/html/rd/p/000000709.000037629.html",
       "publishedAt": "2026-01-14T02:00:03.000Z",
@@ -8120,11 +8162,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/709/resize/d37629-709-2156f7179d09e2acf590-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/709/resize/d37629-709-2156f7179d09e2acf590-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ』より、アビドス高等学校3年生、アビドス生徒会の「シロコ＊テラー」がねんどろいどで登場です！",
+      "title": "《蔚蓝档案》推出阿拜多斯高中三年级、阿拜多斯学生会成员白子＊恐怖的黏土人",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ』より、アビドス高等学校3年生、アビドス生徒会の「シロコ＊テラー」がねんどろいどで登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000963.000042572.html",
       "publishedAt": "2026-01-09T03:21:28.000Z",
@@ -8134,11 +8177,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/963/resize/d42572-963-f738f001f3bea9bb02a7-7.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/963/resize/d42572-963-f738f001f3bea9bb02a7-7.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "マイメロディの生き方から、いまを生きるヒントを探す体験型展示イベント「好きにすなおに生きてみる展　WITH MY MELODY」1月15日(木)より表参道で期間限定開催",
+      "title": "从美乐蒂的生活态度中寻找当下的生活灵感：互动展“坦诚面对喜好，试着这样生活 WITH MY MELODY”将于1月15日（周四）起在表参道限时举办",
       "originalTitle": "マイメロディの生き方から、いまを生きるヒントを探す体験型展示イベント「好きにすなおに生きてみる展　WITH MY MELODY」1月15日(木)より表参道で期間限定開催",
       "url": "https://prtimes.jp/main/html/rd/p/000000708.000037629.html",
       "publishedAt": "2026-01-07T03:00:02.000Z",
@@ -8150,11 +8194,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/708/resize/d37629-708-2ef3c6c11bd9d5da0df6-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/708/resize/d37629-708-2ef3c6c11bd9d5da0df6-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "TVアニメ『地獄楽』第二期放送直前！『地獄楽 パラダイスバトル』、豪華アイテムがもらえるTVアニメ放送直前カウントダウンキャンペーン開催中！小林千晃さん、花守ゆみりさんによる新年のご挨拶動画も到着！",
+      "title": "电视动画《地狱乐》第二季开播在即，《地狱乐 Paradise Battle》举办可获丰厚道具的倒计时活动，并公开小林千晃、花守由美里的新年问候视频",
       "originalTitle": "TVアニメ『地獄楽』第二期放送直前！『地獄楽 パラダイスバトル』、豪華アイテムがもらえるTVアニメ放送直前カウントダウンキャンペーン開催中！小林千晃さん、花守ゆみりさんによる新年のご挨拶動画も到着！",
       "url": "https://prtimes.jp/main/html/rd/p/000000970.000042572.html",
       "publishedAt": "2026-01-04T03:00:02.000Z",
@@ -8164,11 +8209,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/970/resize/d42572-970-bd0fb5c52ffa8850449b-16.png"
+      "thumbnail": "https://prtimes.jp/i/42572/970/resize/d42572-970-bd0fb5c52ffa8850449b-16.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "STRICT-Gより、ガンダム商品 ハッピーバッグ販売のお知らせ",
+      "title": "STRICT-G 公布高达商品福袋发售消息",
       "originalTitle": "STRICT-Gより、ガンダム商品 ハッピーバッグ販売のお知らせ",
       "url": "https://prtimes.jp/main/html/rd/p/000000855.000055569.html",
       "publishedAt": "2025-12-26T09:00:02.000Z",
@@ -8180,11 +8226,12 @@
       "brands": [
         "万代"
       ],
-      "thumbnail": "https://prtimes.jp/i/55569/855/resize/d55569-855-fe9b6f4f649fe48e2ebf-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/55569/855/resize/d55569-855-fe9b6f4f649fe48e2ebf-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム』の限定Tシャツやトートバッグが買える！福山サービスエリア(上り)に自販機設置が決定！西日本初1/12スケールのRX-78-2 GUNDAM立像も登場！",
+      "title": "福山服务区（上行线）将设置可购买《机动战士高达》限定 T 恤与托特包的自动售货机，并展出西日本首座1/12比例 RX-78-2 高达立像",
       "originalTitle": "『機動戦士ガンダム』の限定Tシャツやトートバッグが買える！福山サービスエリア(上り)に自販機設置が決定！西日本初1/12スケールのRX-78-2 GUNDAM立像も登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000852.000055569.html",
       "publishedAt": "2025-12-26T01:30:02.000Z",
@@ -8195,11 +8242,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム』×こけしSTRICT-Gと卯三郎こけしの初のコラボレーション！！",
+      "title": "《机动战士高达》推出木芥子人偶：STRICT-G 首次与卯三郎木芥子联名",
       "originalTitle": "『機動戦士ガンダム』×こけしSTRICT-Gと卯三郎こけしの初のコラボレーション！！",
       "url": "https://prtimes.jp/main/html/rd/p/000000851.000055569.html",
       "publishedAt": "2025-12-26T01:00:03.000Z",
@@ -8210,11 +8258,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "STRICT-G×JAM HOME MADEハロシリーズが登場！",
+      "title": "STRICT-G 与 JAM HOME MADE 推出哈罗主题系列",
       "originalTitle": "STRICT-G×JAM HOME MADEハロシリーズが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000848.000055569.html",
       "publishedAt": "2025-12-25T01:00:03.000Z",
@@ -8224,7 +8273,8 @@
       "brands": [
         "万代"
       ],
-      "thumbnail": "https://prtimes.jp/i/55569/848/resize/d55569-848-33d87f1a929b6eb0e7c9-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/55569/848/resize/d55569-848-33d87f1a929b6eb0e7c9-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
