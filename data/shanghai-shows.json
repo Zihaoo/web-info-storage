@@ -101,6 +101,56 @@
           "sourceUrl": "https://www.sina.cn/news/detail/5368838885478748.html"
         }
       ]
+    },
+    {
+      "id": "benzo-shanghai-20261128",
+      "artist": "李大奔 BENZO",
+      "title": "RUNWAY to SHOW · 即刻登场",
+      "date": "2026-11-28",
+      "time": "19:00",
+      "venue": "上海静安体育中心体育馆",
+      "district": "静安区",
+      "genre": "Hip-Hop",
+      "price": "内场 780、980 元；看台 380、580、680 元",
+      "sourceUrl": "https://www.sina.cn/news/detail/5369110671921144.html",
+      "updates": [
+        {
+          "type": "上海站官宣",
+          "at": "2026-10-29T18:00:00+08:00",
+          "sourceUrl": "https://www.sina.cn/news/detail/5359417031393590.html"
+        },
+        {
+          "type": "三次开票（少量余票）",
+          "at": "2026-11-26T16:00:00+08:00",
+          "sourceUrl": "https://www.sina.cn/news/detail/5369110671921144.html"
+        }
+      ]
+    },
+    {
+      "id": "whynot-shanghai-20261226",
+      "artist": "双脚离地 WhyNot、龙飘飘 skiboyvv、Taco、ayin印",
+      "title": "双脚离地中文说唱派对",
+      "date": "2026-12-26",
+      "time": "19:30",
+      "venue": "上海 MAO Livehouse",
+      "district": "黄浦区",
+      "genre": "Hip-Hop",
+      "price": "单人票 158 元，VIP 票 278 元",
+      "sourceUrl": "https://www.showstart.com/event/316946",
+      "updates": []
+    },
+    {
+      "id": "youngjack-shanghai-20261230",
+      "artist": "满舒克 YoungJack",
+      "title": "2026 YOUNGJACK 满舒克巡演",
+      "date": "2026-12-30",
+      "time": "20:00",
+      "venue": "瓦肆 VAS evo（虹口店）",
+      "district": "虹口区",
+      "genre": "Hip-Hop",
+      "price": "现场票 298 元，VIP 票 398 元",
+      "sourceUrl": "https://www.showstart.com/event/315766",
+      "updates": []
     }
   ]
 }
