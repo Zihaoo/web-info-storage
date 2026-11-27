@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "syncedAt": "2026-11-27T01:05:17.643Z",
+  "syncedAt": "2026-11-27T01:06:35.652Z",
   "health": [
     {
       "id": "gsc",
@@ -1973,7 +1973,7 @@
     },
     {
       "sourceId": "amnibus",
-      "title": "『とある科学の超電磁砲Ｔ』から「arma bianca」 × 「アニメイト」の共同ブランド「arti-mate」によるオリジナルアパレル、雑貨のアニメイト限定販売が決定！",
+      "title": "arma bianca 与 animate 的联合品牌 arti-mate 将推出《某科学的超电磁炮T》原创服饰及杂货，在 animate 独家销售",
       "originalTitle": "『とある科学の超電磁砲Ｔ』から「arma bianca」 × 「アニメイト」の共同ブランド「arti-mate」によるオリジナルアパレル、雑貨のアニメイト限定販売が決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000009703.000016064.html",
       "publishedAt": "2026-11-05T03:00:02.000Z",
@@ -1983,11 +1983,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "世界累計2.5億冊超の英国絵本キャラクター「ミスターメン リトルミス」コーヒースタンド「MR. MEN LITTLE MISS THE COFFEE STAND」渋谷地下街しぶちかに11月6日オープン",
+      "title": "全球累计销量超过2.5亿册的英国绘本《奇先生妙小姐》将开设主题咖啡店，11月6日落户涩谷地下街 Shibuchika",
       "originalTitle": "世界累計2.5億冊超の英国絵本キャラクター「ミスターメン リトルミス」コーヒースタンド「MR. MEN LITTLE MISS THE COFFEE STAND」渋谷地下街しぶちかに11月6日オープン",
       "url": "https://prtimes.jp/main/html/rd/p/000000773.000037629.html",
       "publishedAt": "2026-11-05T02:00:02.000Z",
@@ -1999,11 +2000,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/773/resize/d37629-773-0ef720a859c17913f2be-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/773/resize/d37629-773-0ef720a859c17913f2be-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "『ご注文はうさぎですか？ BLOOM』から日常で使える統一感をテーマにしたデザインシリーズ「ar-Unity」のアイテムの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订《请问您今天要来点兔子吗？BLOOM》ar-Unity 系列，以适合日常使用的统一风格为设计主题",
       "originalTitle": "『ご注文はうさぎですか？ BLOOM』から日常で使える統一感をテーマにしたデザインシリーズ「ar-Unity」のアイテムの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009767.000016064.html",
       "publishedAt": "2026-11-05T01:09:43.000Z",
@@ -2013,11 +2015,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『地獄楽 パラダイスバトル』1周年キャンペーン開催中！前日譚を描いたオリジナルストーリーや今後追加予定の新コンテンツ情報をお届け！",
+      "title": "《地狱乐 Paradise Battle》一周年活动进行中，公开原创前传故事及后续新内容情报",
       "originalTitle": "『地獄楽 パラダイスバトル』1周年キャンペーン開催中！前日譚を描いたオリジナルストーリーや今後追加予定の新コンテンツ情報をお届け！",
       "url": "https://prtimes.jp/main/html/rd/p/000001095.000042572.html",
       "publishedAt": "2026-11-04T09:00:02.000Z",
@@ -2027,11 +2030,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/1095/resize/d42572-1095-e196b266045002d00b97-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/1095/resize/d42572-1095-e196b266045002d00b97-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "TVアニメ『LIAR GAME』のトレーディング場面写アクリルスタンド、トレーディング場面写アクリルカードなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订电视动画《诈欺游戏》随机剧照亚克力立牌、随机剧照亚克力卡等周边",
       "originalTitle": "TVアニメ『LIAR GAME』のトレーディング場面写アクリルスタンド、トレーディング場面写アクリルカードなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009766.000016064.html",
       "publishedAt": "2026-11-04T01:35:03.000Z",
@@ -2041,11 +2045,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "『劇場シリーズ【第一部】メイドインアビス 目覚める神秘』の描き下ろしハロウィンver. A6アクリルパネルなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订剧场系列第一部《来自深渊 觉醒的神秘》全新绘制的万圣节造型 A6 亚克力装饰板等周边",
       "originalTitle": "『劇場シリーズ【第一部】メイドインアビス 目覚める神秘』の描き下ろしハロウィンver. A6アクリルパネルなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009765.000016064.html",
       "publishedAt": "2026-11-04T01:23:18.000Z",
@@ -2055,11 +2060,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "『とある暗部の少女共棲』のトレーディング ちびとこ 缶バッジ、トレーディング ちびとこ Ani-Frameなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订《某暗部的少女共栖》“ちびとこ”系列随机徽章、随机 Ani-Frame 相框等周边",
       "originalTitle": "『とある暗部の少女共棲』のトレーディング ちびとこ 缶バッジ、トレーディング ちびとこ Ani-Frameなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009764.000016064.html",
       "publishedAt": "2026-11-04T01:21:36.000Z",
@@ -2069,7 +2075,8 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
@@ -2089,7 +2096,7 @@
     },
     {
       "sourceId": "amnibus",
-      "title": "『ラブライブ！虹ヶ咲学園スクールアイドル同好会』の描き下ろし パンダキョンシーver. トレーディングハート型缶バッジなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订《Love Live！虹咲学园学园偶像同好会》全新绘制的熊猫僵尸造型随机心形徽章等周边",
       "originalTitle": "『ラブライブ！虹ヶ咲学園スクールアイドル同好会』の描き下ろし パンダキョンシーver. トレーディングハート型缶バッジなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009759.000016064.html",
       "publishedAt": "2026-11-02T02:02:51.000Z",
@@ -2099,11 +2106,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "「魔法少女育成計画restart」のトレーディングアクリルスタンド、トレーディンググリッター缶バッジなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订《魔法少女育成计划 restart》随机亚克力立牌、随机闪粉徽章等周边",
       "originalTitle": "「魔法少女育成計画restart」のトレーディングアクリルスタンド、トレーディンググリッター缶バッジなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009758.000016064.html",
       "publishedAt": "2026-11-02T01:34:12.000Z",
@@ -2113,11 +2121,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "『BLACK LAGOON』の山中虎鉄 描き下ろし ランジェリーver. BIGタペストリーなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订《黑礁》周边，包括山中虎铁全新绘制的内衣造型大幅挂画",
       "originalTitle": "『BLACK LAGOON』の山中虎鉄 描き下ろし ランジェリーver. BIGタペストリーなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009757.000016064.html",
       "publishedAt": "2026-11-02T01:30:45.000Z",
@@ -2127,11 +2136,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "『ななついろ★ドロップス』オンラインくじが販売開始！",
+      "title": "《七色星露》线上抽奖开售",
       "originalTitle": "『ななついろ★ドロップス』オンラインくじが販売開始！",
       "url": "https://prtimes.jp/main/html/rd/p/000009761.000016064.html",
       "publishedAt": "2026-11-02T01:28:24.000Z",
@@ -2141,11 +2151,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "『ななついろ★ドロップス』のトレーディング 秋姫 すももオンリー 缶バッジ、BIGアクリルスタンドの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订《七色星露》秋姬素桃角色专属随机徽章及大型亚克力立牌",
       "originalTitle": "『ななついろ★ドロップス』のトレーディング 秋姫 すももオンリー 缶バッジ、BIGアクリルスタンドの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009760.000016064.html",
       "publishedAt": "2026-11-02T01:21:42.000Z",
@@ -2155,11 +2166,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "『葬送のフリーレン』の雲形ガラスフロート温度計の受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订《葬送的芙莉莲》云形玻璃浮球温度计",
       "originalTitle": "『葬送のフリーレン』の雲形ガラスフロート温度計の受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009756.000016064.html",
       "publishedAt": "2026-11-02T01:13:33.000Z",
@@ -2171,11 +2183,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "『MILGRAM -ミルグラム-』の描き下ろし シドウ バースデーver. 第3弾 A6アクリルパネルなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订《MILGRAM》第三弹シドウ生日主题全新绘图 A6 亚克力装饰板等周边",
       "originalTitle": "『MILGRAM -ミルグラム-』の描き下ろし シドウ バースデーver. 第3弾 A6アクリルパネルなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009746.000016064.html",
       "publishedAt": "2026-11-02T00:52:57.000Z",
@@ -2185,7 +2198,8 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
@@ -2205,7 +2219,7 @@
     },
     {
       "sourceId": "gsc",
-      "title": "TVアニメ『東京リベンジャーズ 』完全新作スマートフォンゲーム『東京リベンジャーズUNLIMITED（アンリベ）』で、メインシナリオ「三天戦争編 」の実装が決定！",
+      "title": "电视动画《东京复仇者》全新手游《东京复仇者 UNLIMITED》将推出主线剧情“三天战争篇”",
       "originalTitle": "TVアニメ『東京リベンジャーズ 』完全新作スマートフォンゲーム『東京リベンジャーズUNLIMITED（アンリベ）』で、メインシナリオ「三天戦争編 」の実装が決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000001096.000042572.html",
       "publishedAt": "2026-10-30T08:00:02.000Z",
@@ -2214,11 +2228,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "「『ミニグラム』from『MILGRAM -ミルグラム-』 POP UP SHOP in AMNIBUS STORE vol.2」が開催決定！",
+      "title": "《MILGRAM》衍生作品《ミニグラム》将在 AMNIBUS STORE 举办第二弹快闪店",
       "originalTitle": "「『ミニグラム』from『MILGRAM -ミルグラム-』 POP UP SHOP in AMNIBUS STORE vol.2」が開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000009726.000016064.html",
       "publishedAt": "2026-10-30T03:00:02.000Z",
@@ -2228,11 +2243,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "TVアニメ「リコリス・リコイル」 POP UP SHOP in マルイの開催が決定！",
+      "title": "电视动画《莉可丽丝》将在丸井举办快闪店",
       "originalTitle": "TVアニメ「リコリス・リコイル」 POP UP SHOP in マルイの開催が決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000009745.000016064.html",
       "publishedAt": "2026-10-30T03:00:02.000Z",
@@ -2242,11 +2258,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『ARMORED CORE VI FIRES OF RUBICON』よりパイルバンカーをモチーフにしたギミック付きボールペンが登場！プレミアムバンダイにて受注予約開始",
+      "title": "《装甲核心6 境界天火》推出以打桩机为原型、带可动机关的圆珠笔，Premium Bandai 开放预订",
       "originalTitle": "『ARMORED CORE VI FIRES OF RUBICON』よりパイルバンカーをモチーフにしたギミック付きボールペンが登場！プレミアムバンダイにて受注予約開始",
       "url": "https://prtimes.jp/main/html/rd/p/000000959.000055569.html",
       "publishedAt": "2026-10-30T03:00:02.000Z",
@@ -2255,11 +2272,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "STRICT-G×JAM HOME MADE『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』シリーズが登場",
+      "title": "STRICT-G × JAM HOME MADE 推出《机动战士高达 闪光的哈萨维 喀耳刻的魔女》联名系列",
       "originalTitle": "STRICT-G×JAM HOME MADE『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』シリーズが登場",
       "url": "https://prtimes.jp/main/html/rd/p/000001051.000055569.html",
       "publishedAt": "2026-10-30T02:00:02.000Z",
@@ -2270,11 +2288,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダムSEED FREEDOM』と、ジュエリーブランド「THE KISS」とのコラボアクセサリーが登場!!",
+      "title": "《机动战士高达SEED FREEDOM》与珠宝品牌 THE KISS 推出联名饰品",
       "originalTitle": "『機動戦士ガンダムSEED FREEDOM』と、ジュエリーブランド「THE KISS」とのコラボアクセサリーが登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000001029.000055569.html",
       "publishedAt": "2026-10-30T01:50:57.000Z",
@@ -2285,11 +2304,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "『Re:ゼロから始める異世界生活』の描き下ろし 番傘和装ver. 等身大タペストリーなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订《Re:从零开始的异世界生活》全新绘制的和伞和服造型等身挂画等周边",
       "originalTitle": "『Re:ゼロから始める異世界生活』の描き下ろし 番傘和装ver. 等身大タペストリーなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009747.000016064.html",
       "publishedAt": "2026-10-30T01:30:26.000Z",
@@ -2299,11 +2319,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "STRICT-G.ARMSシリーズよりタンカースジャケットが登場！",
+      "title": "STRICT-G.ARMS 系列推出坦克兵夹克",
       "originalTitle": "STRICT-G.ARMSシリーズよりタンカースジャケットが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000001032.000055569.html",
       "publishedAt": "2026-10-30T01:26:48.000Z",
@@ -2312,11 +2333,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "TVアニメ『探偵はもう、死んでいる。Season2』アニメイト先行予約キャンペーンが開催決定！",
+      "title": "电视动画《侦探已经死了。》第二季将在 animate 举办优先预订活动",
       "originalTitle": "TVアニメ『探偵はもう、死んでいる。Season2』アニメイト先行予約キャンペーンが開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000009742.000016064.html",
       "publishedAt": "2026-10-29T03:00:02.000Z",
@@ -2326,11 +2348,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "「『アズールレーン』 POP UP SHOP in AMNIBUS STORE -blue-」が開催決定！",
+      "title": "《碧蓝航线》将在 AMNIBUS STORE 举办「-blue-」快闪店",
       "originalTitle": "「『アズールレーン』 POP UP SHOP in AMNIBUS STORE -blue-」が開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000009715.000016064.html",
       "publishedAt": "2026-10-29T03:00:02.000Z",
@@ -2340,11 +2363,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "「『夏目友人帳』 POP UP SHOP in TOWER RECORDS」が開催決定！",
+      "title": "《夏目友人帐》将在 TOWER RECORDS 举办快闪店",
       "originalTitle": "「『夏目友人帳』 POP UP SHOP in TOWER RECORDS」が開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000009725.000016064.html",
       "publishedAt": "2026-10-29T03:00:02.000Z",
@@ -2354,11 +2378,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "「『うらみちお兄さん』アニメイトフェア」が開催決定！",
+      "title": "《阴晴不定大哥哥》将在 animate 举办主题活动",
       "originalTitle": "「『うらみちお兄さん』アニメイトフェア」が開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000009733.000016064.html",
       "publishedAt": "2026-10-29T03:00:02.000Z",
@@ -2368,11 +2393,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "「TVアニメ『Summer Pockets』 POP UP SHOP in ボークス秋葉原ホビー天国2 vol.II」が開催決定！",
+      "title": "电视动画《Summer Pockets》将在 Volks 秋叶原 Hobby 天国2举办第二弹快闪店",
       "originalTitle": "「TVアニメ『Summer Pockets』 POP UP SHOP in ボークス秋葉原ホビー天国2 vol.II」が開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000009735.000016064.html",
       "publishedAt": "2026-10-29T03:00:02.000Z",
@@ -2382,11 +2408,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム』より、筆絵タッチのガンダム富士柄、シャア専用ザクII赤富士柄Tシャツが登場！",
+      "title": "《机动战士高达》推出两款毛笔画风 T 恤，分别绘有高达与富士山、夏亚专用扎古II与赤富士",
       "originalTitle": "『機動戦士ガンダム』より、筆絵タッチのガンダム富士柄、シャア専用ザクII赤富士柄Tシャツが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000001053.000055569.html",
       "publishedAt": "2026-10-29T02:00:03.000Z",
@@ -2397,11 +2424,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "「TRAVAS TOKYO」×アニメ「NEEDY GIRL OVERDOSE」のコラボレーションアイテムの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订 TRAVAS TOKYO 与动画《主播女孩重度依赖》的联名周边",
       "originalTitle": "「TRAVAS TOKYO」×アニメ「NEEDY GIRL OVERDOSE」のコラボレーションアイテムの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009741.000016064.html",
       "publishedAt": "2026-10-29T01:35:42.000Z",
@@ -2411,11 +2439,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "TVアニメ『BLACK TORCH』の描き下ろし 戦う背中ver. トレーディングアクリルカードなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订电视动画《BLACK TORCH》全新绘制的“战斗背影”主题随机亚克力卡等周边",
       "originalTitle": "TVアニメ『BLACK TORCH』の描き下ろし 戦う背中ver. トレーディングアクリルカードなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009740.000016064.html",
       "publishedAt": "2026-10-29T01:34:29.000Z",
@@ -2425,11 +2454,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "TVアニメ「スーパーの裏でヤニ吸うふたり」のトレーディンググリッター缶バッジ、トレーディング場面写ブロマイドなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订电视动画《在超市后门吸烟的二人》随机闪粉徽章、随机剧照相片等周边",
       "originalTitle": "TVアニメ「スーパーの裏でヤニ吸うふたり」のトレーディンググリッター缶バッジ、トレーディング場面写ブロマイドなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009743.000016064.html",
       "publishedAt": "2026-10-29T01:33:25.000Z",
@@ -2439,11 +2469,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム』より、フリーススナッププルオーバーが登場！",
+      "title": "《机动战士高达》推出按扣套头抓绒衫",
       "originalTitle": "『機動戦士ガンダム』より、フリーススナッププルオーバーが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000001055.000055569.html",
       "publishedAt": "2026-10-29T01:30:01.000Z",
@@ -2454,11 +2485,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "Sanrio Games第1作目タイトル「サンリオ パーティランド」10月29日(木)発売！",
+      "title": "Sanrio Games 首款游戏《三丽鸥派对乐园》将于10月29日（周四）发售",
       "originalTitle": "Sanrio Games第1作目タイトル「サンリオ パーティランド」10月29日(木)発売！",
       "url": "https://prtimes.jp/main/html/rd/p/000000770.000037629.html",
       "publishedAt": "2026-10-29T01:00:02.000Z",
@@ -2470,11 +2502,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/770/resize/d37629-770-026054406fe1b4684fa0-0.png"
+      "thumbnail": "https://prtimes.jp/i/37629/770/resize/d37629-770-026054406fe1b4684fa0-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム』より、京都の老舗かばん店「一澤信三郎帆布」とのコラボによる帆布かばんシリーズが登場！",
+      "title": "《机动战士高达》与京都老字号箱包店“一泽信三郎帆布”推出联名帆布包系列",
       "originalTitle": "『機動戦士ガンダム』より、京都の老舗かばん店「一澤信三郎帆布」とのコラボによる帆布かばんシリーズが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000001052.000055569.html",
       "publishedAt": "2026-10-29T01:00:02.000Z",
@@ -2485,11 +2518,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "10/28(水)から開催「Hello Kitty’s Lounge」プレス発表会",
+      "title": "10月28日（周三）起举办的「Hello Kitty’s Lounge」活动举行媒体发布会",
       "originalTitle": "10/28(水)から開催「Hello Kitty’s Lounge」プレス発表会",
       "url": "https://prtimes.jp/main/html/rd/p/000000771.000037629.html",
       "publishedAt": "2026-10-28T08:21:35.000Z",
@@ -2501,11 +2535,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/771/resize/d37629-771-49d03b002e51685ebfb0-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/771/resize/d37629-771-49d03b002e51685ebfb0-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "「『あんさんぶるスターズ！！』× ROUND1」が開催決定！",
+      "title": "《偶像梦幻祭！！》将与 ROUND1 举办联动活动",
       "originalTitle": "「『あんさんぶるスターズ！！』× ROUND1」が開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000009739.000016064.html",
       "publishedAt": "2026-10-28T08:00:01.000Z",
@@ -2515,11 +2550,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "アニメ「TO BE HERO X」のトレーディングチェキプリント、トレーディングマット缶バッジなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订动画《凸变英雄X》随机拍立得照片、随机哑光徽章等周边",
       "originalTitle": "アニメ「TO BE HERO X」のトレーディングチェキプリント、トレーディングマット缶バッジなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009737.000016064.html",
       "publishedAt": "2026-10-28T01:13:40.000Z",
@@ -2529,11 +2565,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム』より、ユーズドスタイルのMS（モビルスーツ）柄ロングスリーブTシャツが登場！",
+      "title": "《机动战士高达》推出以机动战士（MS）为图案的做旧风长袖 T 恤",
       "originalTitle": "『機動戦士ガンダム』より、ユーズドスタイルのMS（モビルスーツ）柄ロングスリーブTシャツが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000001054.000055569.html",
       "publishedAt": "2026-10-28T01:00:02.000Z",
@@ -2544,11 +2581,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "『BANANA FISH』のアッシュ・リンクス プリザーブドフラワー vol.2の受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订《BANANA FISH》亚修·林克斯主题永生花第二弹",
       "originalTitle": "『BANANA FISH』のアッシュ・リンクス プリザーブドフラワー vol.2の受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009738.000016064.html",
       "publishedAt": "2026-10-28T00:58:13.000Z",
@@ -2558,11 +2596,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "TVアニメ「ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～」のトレーディンググリッター缶バッジなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订电视动画《ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～》随机闪粉徽章等周边",
       "originalTitle": "TVアニメ「ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～」のトレーディンググリッター缶バッジなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009736.000016064.html",
       "publishedAt": "2026-10-28T00:53:01.000Z",
@@ -2572,11 +2611,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "カルビー『じゃがりこ』をモチーフにファンの声から生まれたアクセサリーがプレミアムバンダイに登場！",
+      "title": "Premium Bandai 推出根据粉丝建议设计的卡乐比 Jagarico 薯条主题配饰",
       "originalTitle": "カルビー『じゃがりこ』をモチーフにファンの声から生まれたアクセサリーがプレミアムバンダイに登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000001056.000055569.html",
       "publishedAt": "2026-10-27T03:00:25.000Z",
@@ -2585,11 +2625,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "「写らナイんです POP UP SHOP in 紀伊國屋書店」が開催決定！",
+      "title": "《写らナイんです》将在纪伊国屋书店举办快闪店",
       "originalTitle": "「写らナイんです POP UP SHOP in 紀伊國屋書店」が開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000009734.000016064.html",
       "publishedAt": "2026-10-27T03:00:02.000Z",
@@ -2599,11 +2640,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 逆襲のシャア』『機動戦士ガンダムZZ』と、ジュエリーブランド「THE KISS」とのコラボによる、「アムロ・レイ」と「ジュドー・アーシタ」のネックレスが登場!!",
+      "title": "《机动战士高达 逆袭的夏亚》《机动战士高达ZZ》与珠宝品牌 THE KISS 联名推出阿姆罗·雷和捷多·亚希塔主题项链",
       "originalTitle": "『機動戦士ガンダム 逆襲のシャア』『機動戦士ガンダムZZ』と、ジュエリーブランド「THE KISS」とのコラボによる、「アムロ・レイ」と「ジュドー・アーシタ」のネックレスが登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000001028.000055569.html",
       "publishedAt": "2026-10-27T01:00:02.000Z",
@@ -2614,11 +2656,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "TVアニメ『WIND BREAKER』の描き下ろし ジャズver. トレーディングアクリルカードなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+      "title": "AMNIBUS 开放预订电视动画《防风少年》全新绘制的爵士主题随机亚克力卡等周边",
       "originalTitle": "TVアニメ『WIND BREAKER』の描き下ろし ジャズver. トレーディングアクリルカードなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
       "url": "https://prtimes.jp/main/html/rd/p/000009730.000016064.html",
       "publishedAt": "2026-10-26T01:26:48.000Z",
@@ -2628,11 +2671,12 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
-      "title": "アニメ「NieR:Automata Ver1.1a」から日常で使える統一感をテーマにしたデザインシリーズ「ar-Unity」のアイテムなどの受注を開始！！",
+      "title": "动画《尼尔：自动人形 Ver1.1a》开放预订 ar-Unity 系列等周边，该系列以适合日常使用的统一风格为设计主题",
       "originalTitle": "アニメ「NieR:Automata Ver1.1a」から日常で使える統一感をテーマにしたデザインシリーズ「ar-Unity」のアイテムなどの受注を開始！！",
       "url": "https://prtimes.jp/main/html/rd/p/000009731.000016064.html",
       "publishedAt": "2026-10-26T01:24:06.000Z",
@@ -2642,7 +2686,8 @@
       "brands": [
         "AMNIBUS",
         "ARMABIANCA"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "amnibus",
