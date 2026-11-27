@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "syncedAt": "2026-11-27T01:19:27.621Z",
+  "syncedAt": "2026-11-27T01:20:33.501Z",
   "health": [
     {
       "id": "gsc",
@@ -9850,7 +9850,7 @@
     },
     {
       "sourceId": "gsc",
-      "title": "でっかかわいい！ねんどろいど20周年を記念したシリーズ「ねんどろいどらーじ」より、日向翔陽が数量限定で販売開始！",
+      "title": "又大又可爱！黏土人20周年纪念“大号黏土人”系列限量发售日向翔阳",
       "originalTitle": "でっかかわいい！ねんどろいど20周年を記念したシリーズ「ねんどろいどらーじ」より、日向翔陽が数量限定で販売開始！",
       "url": "https://prtimes.jp/main/html/rd/p/000000921.000042572.html",
       "publishedAt": "2025-08-01T03:07:31.000Z",
@@ -9859,11 +9859,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "でっかかわいい！ねんどろいど20周年を記念したシリーズ「ねんどろいどらーじ」より、初音ミクが数量限定で販売開始！",
+      "title": "又大又可爱！黏土人20周年纪念“大号黏土人”系列限量发售初音未来",
       "originalTitle": "でっかかわいい！ねんどろいど20周年を記念したシリーズ「ねんどろいどらーじ」より、初音ミクが数量限定で販売開始！",
       "url": "https://prtimes.jp/main/html/rd/p/000000920.000042572.html",
       "publishedAt": "2025-08-01T03:05:15.000Z",
@@ -9872,11 +9873,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『ブルーアーカイブ -Blue Archive-』より、「ヒナ」が1/7スケールフィギュアになって登場！！",
+      "title": "《蔚蓝档案》推出日奈的1/7比例手办",
       "originalTitle": "『ブルーアーカイブ -Blue Archive-』より、「ヒナ」が1/7スケールフィギュアになって登場！！",
       "url": "https://prtimes.jp/main/html/rd/p/000000915.000042572.html",
       "publishedAt": "2025-07-31T03:06:44.000Z",
@@ -9885,11 +9887,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "シナモロールの新ブランド「I.CINNAMOROLL(アイシナモロール)」の展示会が8月27日(水)オープン",
+      "title": "大耳狗新品牌 I.CINNAMOROLL 的展览将于8月27日（周三）开幕",
       "originalTitle": "シナモロールの新ブランド「I.CINNAMOROLL(アイシナモロール)」の展示会が8月27日(水)オープン",
       "url": "https://prtimes.jp/main/html/rd/p/000000673.000037629.html",
       "publishedAt": "2025-07-31T01:00:03.000Z",
@@ -9901,11 +9904,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/673/resize/d37629-673-bbfc432cac285bc534db-18.png"
+      "thumbnail": "https://prtimes.jp/i/37629/673/resize/d37629-673-bbfc432cac285bc534db-18.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "株式会社グッドスマイルカンパニー、株式会社トイズキャビンのグループ化を発表",
+      "title": "Good Smile Company 宣布将 ToysCabin 纳入集团",
       "originalTitle": "株式会社グッドスマイルカンパニー、株式会社トイズキャビンのグループ化を発表",
       "url": "https://prtimes.jp/main/html/rd/p/000000912.000042572.html",
       "publishedAt": "2025-07-30T03:00:29.000Z",
@@ -9915,11 +9919,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/912/resize/d42572-912-4c24af6c6f3963ce914b-1.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/912/resize/d42572-912-4c24af6c6f3963ce914b-1.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "クロミが、音楽の世界で本格始動！夢はワールドツアーを回ること!?︎　　アーティスト「KUROMI」がTOY’S FACTORYより10月にメジャーデビュー決定",
+      "title": "库洛米正式进军音乐界，梦想是举办世界巡演？歌手 KUROMI 确定于10月通过 TOY’S FACTORY 主流出道",
       "originalTitle": "クロミが、音楽の世界で本格始動！夢はワールドツアーを回ること!?︎　　アーティスト「KUROMI」がTOY’S FACTORYより10月にメジャーデビュー決定",
       "url": "https://prtimes.jp/main/html/rd/p/000000671.000037629.html",
       "publishedAt": "2025-07-30T03:00:02.000Z",
@@ -9931,11 +9936,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/671/resize/d37629-671-41f6160b2ea833eeb745-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/671/resize/d37629-671-41f6160b2ea833eeb745-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "明日7月18日(金)からスタートの体験型イベント「MY MELODY (ハート) KUROMI GAME PLAZA」プレス発表会",
+      "title": "7月18日（周五）开幕的互动活动 MY MELODY ♡ KUROMI GAME PLAZA 举行媒体发布会",
       "originalTitle": "明日7月18日(金)からスタートの体験型イベント「MY MELODY (ハート) KUROMI GAME PLAZA」プレス発表会",
       "url": "https://prtimes.jp/main/html/rd/p/000000670.000037629.html",
       "publishedAt": "2025-07-17T07:50:42.000Z",
@@ -9947,11 +9953,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/670/resize/d37629-670-e55a795a64be8ff6d2bd-2.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/670/resize/d37629-670-e55a795a64be8ff6d2bd-2.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ』より、ゲヘナ学園所属、便利屋68の課長「カヨコ」がねんどろいどで登場です！",
+      "title": "《蔚蓝档案》推出格黑娜学园便利屋68课长佳代子的黏土人",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ』より、ゲヘナ学園所属、便利屋68の課長「カヨコ」がねんどろいどで登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000914.000042572.html",
       "publishedAt": "2025-07-17T03:05:43.000Z",
@@ -9961,11 +9968,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/914/resize/d42572-914-304150bf9bb863317688-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/914/resize/d42572-914-304150bf9bb863317688-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "サンリオ、パラアルペンスキー・村岡桃佳選手とスポンサー契約を締結",
+      "title": "三丽鸥与残疾人高山滑雪选手村冈桃佳签署赞助协议",
       "originalTitle": "サンリオ、パラアルペンスキー・村岡桃佳選手とスポンサー契約を締結",
       "url": "https://prtimes.jp/main/html/rd/p/000000668.000037629.html",
       "publishedAt": "2025-07-14T01:00:03.000Z",
@@ -9977,11 +9985,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/668/resize/d37629-668-3a0260ac6a44ddc3a872-4.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/668/resize/d37629-668-3a0260ac6a44ddc3a872-4.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "グッスマ新美少女プラモシリーズ『ヴァルキリーチューン』始動！第一弾「リサ」「アイリス」の予約が本日スタート",
+      "title": "Good Smile Company 新美少女拼装模型系列 VALKYRIE TUNE 启动，首弹“莉莎”和“爱丽丝”今日开放预订",
       "originalTitle": "グッスマ新美少女プラモシリーズ『ヴァルキリーチューン』始動！第一弾「リサ」「アイリス」の予約が本日スタート",
       "url": "https://prtimes.jp/main/html/rd/p/000000917.000042572.html",
       "publishedAt": "2025-07-11T03:01:41.000Z",
@@ -9990,11 +9999,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "マイメロディ50周年・クロミ20周年記念！おそろいで、とっておきの夏に",
+      "title": "庆祝美乐蒂50周年与库洛米20周年：用同款搭配共度特别的夏天",
       "originalTitle": "マイメロディ50周年・クロミ20周年記念！おそろいで、とっておきの夏に",
       "url": "https://prtimes.jp/main/html/rd/p/000000666.000037629.html",
       "publishedAt": "2025-07-11T01:00:03.000Z",
@@ -10005,11 +10015,12 @@
       ],
       "brands": [
         "三丽鸥"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "暑い夏に癒しと涼しさを届ける「はなまるおばけのいやされアイススタンド」がオープン！",
+      "title": "“はなまるおばけ的治愈冰淇淋摊”开业，为炎炎夏日送上清凉",
       "originalTitle": "暑い夏に癒しと涼しさを届ける「はなまるおばけのいやされアイススタンド」がオープン！",
       "url": "https://prtimes.jp/main/html/rd/p/000000667.000037629.html",
       "publishedAt": "2025-07-10T03:00:02.000Z",
@@ -10021,11 +10032,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/667/resize/d37629-667-4ad2d3179a08529e881e-14.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/667/resize/d37629-667-4ad2d3179a08529e881e-14.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "Netflixシリーズ「My Melody & Kuromi」主題歌、LE SSERAFIMの新曲「Kawaii (Prod. Gen Hoshino)」 のミュージックビデオが公開！",
+      "title": "Netflix 剧集《美乐蒂与酷洛米》主题曲、LE SSERAFIM 新歌《Kawaii (Prod. Gen Hoshino)》MV 公开",
       "originalTitle": "Netflixシリーズ「My Melody & Kuromi」主題歌、LE SSERAFIMの新曲「Kawaii (Prod. Gen Hoshino)」 のミュージックビデオが公開！",
       "url": "https://prtimes.jp/main/html/rd/p/000000665.000037629.html",
       "publishedAt": "2025-07-08T15:00:02.000Z",
@@ -10036,11 +10048,12 @@
       ],
       "brands": [
         "三丽鸥"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "「MY MELODY (ハート) KUROMI GAME PLAZA」7月18日(金)よりSHIBUYA TSUTAYAで期間限定開催",
+      "title": "MY MELODY ♡ KUROMI GAME PLAZA 将于7月18日（周五）起在 SHIBUYA TSUTAYA 限时举办",
       "originalTitle": "「MY MELODY (ハート) KUROMI GAME PLAZA」7月18日(金)よりSHIBUYA TSUTAYAで期間限定開催",
       "url": "https://prtimes.jp/main/html/rd/p/000000664.000037629.html",
       "publishedAt": "2025-07-03T02:00:03.000Z",
@@ -10051,11 +10064,12 @@
       ],
       "brands": [
         "三丽鸥"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "ポムポムプリンが9年ぶりの1位に！あのさんは大好きなバッドばつ丸と対面し、会場の熱気に大興奮！第40回「2025年サンリオキャラクター大賞結果発表」イベントレポート",
+      "title": "第40届“2025年三丽鸥角色大赏”结果发布活动回顾：布丁狗时隔9年重夺第一，艺人 ano 见到心爱的酷企鹅，为现场的热烈气氛兴奋不已",
       "originalTitle": "ポムポムプリンが9年ぶりの1位に！あのさんは大好きなバッドばつ丸と対面し、会場の熱気に大興奮！第40回「2025年サンリオキャラクター大賞結果発表」イベントレポート",
       "url": "https://prtimes.jp/main/html/rd/p/000000662.000037629.html",
       "publishedAt": "2025-06-29T14:17:19.000Z",
@@ -10067,11 +10081,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/662/resize/d37629-662-fd4531f0341cf4faff2c-10.png"
+      "thumbnail": "https://prtimes.jp/i/37629/662/resize/d37629-662-fd4531f0341cf4faff2c-10.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "第40回「2025年サンリオキャラクター大賞」結果発表",
+      "title": "第40届“2025年三丽鸥角色大赏”公布结果",
       "originalTitle": "第40回「2025年サンリオキャラクター大賞」結果発表",
       "url": "https://prtimes.jp/main/html/rd/p/000000661.000037629.html",
       "publishedAt": "2025-06-29T05:00:01.000Z",
@@ -10083,11 +10098,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/661/resize/d37629-661-b60c1692f94a87428178-0.png"
+      "thumbnail": "https://prtimes.jp/i/37629/661/resize/d37629-661-b60c1692f94a87428178-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "TVアニメ『葬送のフリーレン』より、「フリーレン」が《Harmonia humming》シリーズからドールとなって登場！",
+      "title": "电视动画《葬送的芙莉莲》主角芙莉莲加入 Harmonia humming 人偶系列",
       "originalTitle": "TVアニメ『葬送のフリーレン』より、「フリーレン」が《Harmonia humming》シリーズからドールとなって登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000909.000042572.html",
       "publishedAt": "2025-06-27T03:07:36.000Z",
@@ -10098,11 +10114,12 @@
       ],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ』より、ミレニアムサイエンススクール所属、秘密組織「C&C」の5番目のエージェント「トキ」がねんどろいどで登場です！",
+      "title": "《蔚蓝档案》推出千年科学学园秘密组织 C&C 第五位特工时的黏土人",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ』より、ミレニアムサイエンススクール所属、秘密組織「C&C」の5番目のエージェント「トキ」がねんどろいどで登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000903.000042572.html",
       "publishedAt": "2025-06-27T03:05:43.000Z",
@@ -10112,11 +10129,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/903/resize/d42572-903-a37142af91f528ebeb00-6.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/903/resize/d42572-903-a37142af91f528ebeb00-6.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "TVアニメ『東京リベンジャーズ 』完全新作スマ-トフォンゲーム『東京リベンジャーズUNLIMITED（アンリベ）』が 情報解禁（主題歌：tuki.）および事前登録受付開始を発表！",
+      "title": "《东京复仇者》全新手游《东京复仇者 UNLIMITED》公开情报，主题曲由 tuki. 担任，并开启预约",
       "originalTitle": "TVアニメ『東京リベンジャーズ 』完全新作スマ-トフォンゲーム『東京リベンジャーズUNLIMITED（アンリベ）』が 情報解禁（主題歌：tuki.）および事前登録受付開始を発表！",
       "url": "https://prtimes.jp/main/html/rd/p/000000911.000042572.html",
       "publishedAt": "2025-06-23T03:00:02.000Z",
@@ -10125,11 +10143,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "ビジュアルノベルゲーム『KANADE』DMM GAMES／DLsiteでも発売開始！白砂沙帆(伊織役)のキャストコメント動画を公開、夏吉ゆうこ(カナデ役)直筆サイン色紙が当たるキャンペーンも実施中！",
+      "title": "视觉小说《KANADE》登陆 DMM GAMES 和 DLsite，公开伊织声优白砂沙帆的感言视频，并举办抽取カナデ声优夏吉优子亲笔签名板的活动",
       "originalTitle": "ビジュアルノベルゲーム『KANADE』DMM GAMES／DLsiteでも発売開始！白砂沙帆(伊織役)のキャストコメント動画を公開、夏吉ゆうこ(カナデ役)直筆サイン色紙が当たるキャンペーンも実施中！",
       "url": "https://prtimes.jp/main/html/rd/p/000000910.000042572.html",
       "publishedAt": "2025-06-19T03:00:02.000Z",
@@ -10139,11 +10158,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/910/resize/d42572-910-0943817b2063d4a49c3d-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/910/resize/d42572-910-0943817b2063d4a49c3d-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『地獄楽 パラダイスバトル』主題歌をReolが書き下ろし新規アニメカットを含む主題歌PVを公開！",
+      "title": "《地狱乐 Paradise Battle》公开主题曲宣传片，包含全新动画画面，主题曲由 Reol 专门创作",
       "originalTitle": "『地獄楽 パラダイスバトル』主題歌をReolが書き下ろし新規アニメカットを含む主題歌PVを公開！",
       "url": "https://prtimes.jp/main/html/rd/p/000000908.000042572.html",
       "publishedAt": "2025-06-16T06:00:02.000Z",
@@ -10153,11 +10173,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/908/resize/d42572-908-ad54337da964e7fef6be-0.png"
+      "thumbnail": "https://prtimes.jp/i/42572/908/resize/d42572-908-ad54337da964e7fef6be-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "【本格始動】グッドスマイルカンパニーオリジナル美少女プラモデルプロジェクト『VALKYRIE TUNE』",
+      "title": "Good Smile Company 原创美少女拼装模型企划 VALKYRIE TUNE 正式启动",
       "originalTitle": "【本格始動】グッドスマイルカンパニーオリジナル美少女プラモデルプロジェクト『VALKYRIE TUNE』",
       "url": "https://prtimes.jp/main/html/rd/p/000000907.000042572.html",
       "publishedAt": "2025-06-13T14:00:01.000Z",
@@ -10166,11 +10187,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『ネコぱら セカイコネクト』事前登録受付開始！ゲーム最新情報は「スマイルフェス2025新作ゲーム特集」をチェック！",
+      "title": "《猫娘乐园 世界连接》开放预约，最新游戏情报将在“Smile Fest 2025 新作游戏专题”公开",
       "originalTitle": "『ネコぱら セカイコネクト』事前登録受付開始！ゲーム最新情報は「スマイルフェス2025新作ゲーム特集」をチェック！",
       "url": "https://prtimes.jp/main/html/rd/p/000000904.000042572.html",
       "publishedAt": "2025-06-13T09:37:26.000Z",
@@ -10180,11 +10202,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/904/resize/d42572-904-55b2db05cfa10e9cc020-0.png"
+      "thumbnail": "https://prtimes.jp/i/42572/904/resize/d42572-904-55b2db05cfa10e9cc020-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "グッドスマイルカンパニー主催のフィギュアイベント「スマイルフェス」が今年も開催！主要\"8大トピックス\"を発表",
+      "title": "Good Smile Company 主办的手办活动 Smile Fest 今年再度举办，公布八大看点",
       "originalTitle": "グッドスマイルカンパニー主催のフィギュアイベント「スマイルフェス」が今年も開催！主要\"8大トピックス\"を発表",
       "url": "https://prtimes.jp/main/html/rd/p/000000894.000042572.html",
       "publishedAt": "2025-06-13T07:23:12.000Z",
@@ -10194,11 +10217,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/894/resize/d42572-894-93cc5ea572a80e6db01f-14.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/894/resize/d42572-894-93cc5ea572a80e6db01f-14.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『ブルーアーカイブ -Blue Archive-』より、「アル」が1/7スケールフィギュアになって登場！！",
+      "title": "《蔚蓝档案》推出阿露的1/7比例手办",
       "originalTitle": "『ブルーアーカイブ -Blue Archive-』より、「アル」が1/7スケールフィギュアになって登場！！",
       "url": "https://prtimes.jp/main/html/rd/p/000000889.000042572.html",
       "publishedAt": "2025-06-13T03:06:18.000Z",
@@ -10207,11 +10231,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『ネコぱら セカイコネクト』、新PV＆ゲーム最新情報を公開！主題歌はM・A・O演じる水無月時雨が歌う『Cute Domination』",
+      "title": "《猫娘乐园 世界连接》公开新宣传片与最新游戏情报，主题曲《Cute Domination》由 M·A·O 配音的水无月时雨演唱",
       "originalTitle": "『ネコぱら セカイコネクト』、新PV＆ゲーム最新情報を公開！主題歌はM・A・O演じる水無月時雨が歌う『Cute Domination』",
       "url": "https://prtimes.jp/main/html/rd/p/000000905.000042572.html",
       "publishedAt": "2025-06-13T03:01:44.000Z",
@@ -10221,11 +10246,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/905/resize/d42572-905-0ceac9f57daaf9ae4f78-0.png"
+      "thumbnail": "https://prtimes.jp/i/42572/905/resize/d42572-905-0ceac9f57daaf9ae4f78-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "夏吉ゆうこが主演＆OP歌唱！ビジュアルノベルゲーム『KANADE』本日発売！カナデ役・夏吉ゆうこのキャストコメント動画を公開、キャラクターデザイン・ゆさの描き下ろしイラストも到着！",
+      "title": "夏吉优子主演并演唱片头曲的视觉小说《KANADE》今日发售，同时公开她作为カナデ配音演员的感言视频，以及角色设计师ゆさの全新绘制的插画",
       "originalTitle": "夏吉ゆうこが主演＆OP歌唱！ビジュアルノベルゲーム『KANADE』本日発売！カナデ役・夏吉ゆうこのキャストコメント動画を公開、キャラクターデザイン・ゆさの描き下ろしイラストも到着！",
       "url": "https://prtimes.jp/main/html/rd/p/000000906.000042572.html",
       "publishedAt": "2025-06-12T09:03:25.000Z",
@@ -10235,11 +10261,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/906/resize/d42572-906-306cb2bba9d6457249f1-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/906/resize/d42572-906-306cb2bba9d6457249f1-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "「スマイルフェス2025」 にグッスマ新作ゲーム作品が出展！『地獄楽 パラバト』『ネコぱら』コーナーではノベルティ配布も",
+      "title": "Good Smile Company 多款新游戏将参展 Smile Fest 2025，《地狱乐 Paradise Battle》与《猫娘乐园》展区还将派发纪念品",
       "originalTitle": "「スマイルフェス2025」 にグッスマ新作ゲーム作品が出展！『地獄楽 パラバト』『ネコぱら』コーナーではノベルティ配布も",
       "url": "https://prtimes.jp/main/html/rd/p/000000902.000042572.html",
       "publishedAt": "2025-06-12T08:00:02.000Z",
@@ -10248,11 +10275,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "マイメロディ50周年・クロミ20周年“おそろい”アニバーサリーイヤーに贈る！Netflixシリーズアニメ「My Melody & Kuromi」予告編・キーアート・主題歌情報を解禁！",
+      "title": "庆祝美乐蒂50周年与库洛米20周年，Netflix 动画《美乐蒂与酷洛米》公开预告片、主视觉图与主题曲情报",
       "originalTitle": "マイメロディ50周年・クロミ20周年“おそろい”アニバーサリーイヤーに贈る！Netflixシリーズアニメ「My Melody & Kuromi」予告編・キーアート・主題歌情報を解禁！",
       "url": "https://prtimes.jp/main/html/rd/p/000000659.000037629.html",
       "publishedAt": "2025-06-12T00:00:02.000Z",
@@ -10263,11 +10291,12 @@
       ],
       "brands": [
         "三丽鸥"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "新作ADVゲーム『ダークオークション』、イザナギゲームズとグッドスマイルカンパニーが協業",
+      "title": "IzanagiGames 与 Good Smile Company 合作开发冒险游戏新作《Dark Auction》",
       "originalTitle": "新作ADVゲーム『ダークオークション』、イザナギゲームズとグッドスマイルカンパニーが協業",
       "url": "https://prtimes.jp/main/html/rd/p/000000900.000042572.html",
       "publishedAt": "2025-06-11T03:00:02.000Z",
@@ -10276,11 +10305,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "豪華キャストとともにお届け！「スマイルフェス2025 新作ゲーム特集」6月13日、グッドスマイルカンパニー公式YouTubeチャンネルにて配信！",
+      "title": "“Smile Fest 2025 新作游戏专题”将于6月13日在 Good Smile Company 官方 YouTube 频道播出，多位演出嘉宾参与",
       "originalTitle": "豪華キャストとともにお届け！「スマイルフェス2025 新作ゲーム特集」6月13日、グッドスマイルカンパニー公式YouTubeチャンネルにて配信！",
       "url": "https://prtimes.jp/main/html/rd/p/000000901.000042572.html",
       "publishedAt": "2025-06-11T03:00:02.000Z",
@@ -10289,11 +10319,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "TVアニメ『ラーメン赤猫』特別版公式ラジオが6月14日（土）にプレミア公開！",
+      "title": "电视动画《拉面赤猫》特别版官方广播将于6月14日（周六）首播",
       "originalTitle": "TVアニメ『ラーメン赤猫』特別版公式ラジオが6月14日（土）にプレミア公開！",
       "url": "https://prtimes.jp/main/html/rd/p/000000898.000042572.html",
       "publishedAt": "2025-06-11T03:00:02.000Z",
@@ -10303,11 +10334,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/898/resize/d42572-898-a5776acda9277fc758cc-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/898/resize/d42572-898-a5776acda9277fc758cc-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "おかげさまで「ねんどろいど」20周年！記念施策を特設サイトで公開中！",
+      "title": "黏土人迎来20周年，纪念活动详情已在专题网站公开",
       "originalTitle": "おかげさまで「ねんどろいど」20周年！記念施策を特設サイトで公開中！",
       "url": "https://prtimes.jp/main/html/rd/p/000000883.000042572.html",
       "publishedAt": "2025-06-06T09:14:11.000Z",
@@ -10317,11 +10349,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/883/resize/d42572-883-04190996adba8e5a1365-0.png"
+      "thumbnail": "https://prtimes.jp/i/42572/883/resize/d42572-883-04190996adba8e5a1365-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『センチメンタルサーカス』をテーマにしたドールが「ニア・ハルモニア」シリーズから登場！",
+      "title": "Near Harmonia 系列推出《忧伤马戏团》主题人偶",
       "originalTitle": "『センチメンタルサーカス』をテーマにしたドールが「ニア・ハルモニア」シリーズから登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000887.000042572.html",
       "publishedAt": "2025-06-06T03:15:07.000Z",
@@ -10330,11 +10363,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『勝利の女神：NIKKE』より、「シンデレラ」がHyper Bodyになって登場！！",
+      "title": "《胜利女神：妮姬》推出灰姑娘 Hyper Body 可动手办",
       "originalTitle": "『勝利の女神：NIKKE』より、「シンデレラ」がHyper Bodyになって登場！！",
       "url": "https://prtimes.jp/main/html/rd/p/000000895.000042572.html",
       "publishedAt": "2025-06-06T03:09:43.000Z",
@@ -10344,11 +10378,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/895/resize/d42572-895-7d0cc25fc772759d4405-9.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/895/resize/d42572-895-7d0cc25fc772759d4405-9.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "TVアニメ『SPY×FAMILY』より、「アーニャ・フォージャー」が「HELLO! GOOD SMILE」シリーズから登場！",
+      "title": "电视动画《间谍过家家》的阿尼亚·福杰加入 HELLO! GOOD SMILE 系列",
       "originalTitle": "TVアニメ『SPY×FAMILY』より、「アーニャ・フォージャー」が「HELLO! GOOD SMILE」シリーズから登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000896.000042572.html",
       "publishedAt": "2025-06-03T03:46:06.000Z",
@@ -10360,11 +10395,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/896/resize/d42572-896-01d96cffa63e254b8eb6-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/896/resize/d42572-896-01d96cffa63e254b8eb6-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "ゲーム『ラーメン赤猫 ～ニャンて素敵なラーメン店～』ハーフアニバーサリーキャンペーン開催中！",
+      "title": "游戏《拉面赤猫～多么美喵的拉面店～》正在举办半周年纪念活动",
       "originalTitle": "ゲーム『ラーメン赤猫 ～ニャンて素敵なラーメン店～』ハーフアニバーサリーキャンペーン開催中！",
       "url": "https://prtimes.jp/main/html/rd/p/000000890.000042572.html",
       "publishedAt": "2025-06-03T03:00:02.000Z",
@@ -10374,11 +10410,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/890/resize/d42572-890-e9687dc8fa1b739bbdd6-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/890/resize/d42572-890-e9687dc8fa1b739bbdd6-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "夏吉ゆうこ演じるカナデが歌うOP映像が本日公開！ビジュアルノベルゲーム『KANADE』2025年6月12日（木）発売決定！白砂沙帆、桑原由気ほかサブキャスト初解禁！",
+      "title": "视觉小说《KANADE》定于2025年6月12日（周四）发售，今日公开由夏吉优子配音的カナデ演唱的片头动画，并首次公布白砂沙帆、桑原由气等配角声优",
       "originalTitle": "夏吉ゆうこ演じるカナデが歌うOP映像が本日公開！ビジュアルノベルゲーム『KANADE』2025年6月12日（木）発売決定！白砂沙帆、桑原由気ほかサブキャスト初解禁！",
       "url": "https://prtimes.jp/main/html/rd/p/000000893.000042572.html",
       "publishedAt": "2025-05-29T09:00:01.000Z",
@@ -10388,11 +10425,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/893/resize/d42572-893-f247eef506f78891ad7a-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/893/resize/d42572-893-f247eef506f78891ad7a-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "新商品「ちいかわ×サンリオキャラクターズ」をサンリオにて6 月13 日（金）発売",
+      "title": "三丽鸥将于6月13日（周五）发售“吉伊卡哇 × 三丽鸥家族”新品",
       "originalTitle": "新商品「ちいかわ×サンリオキャラクターズ」をサンリオにて6 月13 日（金）発売",
       "url": "https://prtimes.jp/main/html/rd/p/000000656.000037629.html",
       "publishedAt": "2025-05-28T01:30:02.000Z",
@@ -10405,11 +10443,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/656/resize/d37629-656-3ac0d78bf417882a0f8f-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/656/resize/d37629-656-3ac0d78bf417882a0f8f-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "ご好評につき今年も開催！「ねんどろいどファンミーティング」が帰ってくる！",
+      "title": "应好评回归，“黏土人粉丝见面会”确定于今年再度举办",
       "originalTitle": "ご好評につき今年も開催！「ねんどろいどファンミーティング」が帰ってくる！",
       "url": "https://prtimes.jp/main/html/rd/p/000000881.000042572.html",
       "publishedAt": "2025-05-23T08:55:36.000Z",
@@ -10419,11 +10458,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/881/resize/d42572-881-50339bcbcb7584ce9b10-1.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/881/resize/d42572-881-50339bcbcb7584ce9b10-1.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ』より、アリウス分校所属、アリウススクワッドのリーダー「サオリ」がねんどろいどで登場です！",
+      "title": "《蔚蓝档案》推出阿里乌斯分校阿里乌斯小队队长纱织的黏土人",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ』より、アリウス分校所属、アリウススクワッドのリーダー「サオリ」がねんどろいどで登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000880.000042572.html",
       "publishedAt": "2025-05-23T03:06:35.000Z",
@@ -10433,11 +10473,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/880/resize/d42572-880-fecc5be1fe7c1ff8ef56-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/880/resize/d42572-880-fecc5be1fe7c1ff8ef56-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『ねんどろいどフェイスメーカー』コラボ第2弾は「レーシングミク2025Ver.」で開催！表情パーツ6種を限定販売",
+      "title": "黏土人 Face Maker 第二弹联动以 Racing Miku 2025 版为主题，限量发售六款表情配件",
       "originalTitle": "『ねんどろいどフェイスメーカー』コラボ第2弾は「レーシングミク2025Ver.」で開催！表情パーツ6種を限定販売",
       "url": "https://prtimes.jp/main/html/rd/p/000000886.000042572.html",
       "publishedAt": "2025-05-22T08:00:51.000Z",
@@ -10447,11 +10488,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/886/resize/d42572-886-d8f511a347648f531bde-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/886/resize/d42572-886-d8f511a347648f531bde-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気漫画『犬夜叉』より、「犬夜叉」が初のドール化！《Harmonia humming》シリーズから登場！",
+      "title": "漫画《犬夜叉》主角犬夜叉首次推出人偶，加入 Harmonia humming 系列",
       "originalTitle": "大人気漫画『犬夜叉』より、「犬夜叉」が初のドール化！《Harmonia humming》シリーズから登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000872.000042572.html",
       "publishedAt": "2025-05-16T03:14:57.000Z",
@@ -10460,11 +10502,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "【中間順位発表】「2025年サンリオキャラクター大賞」",
+      "title": "2025年三丽鸥角色大赏公布中期排名",
       "originalTitle": "【中間順位発表】「2025年サンリオキャラクター大賞」",
       "url": "https://prtimes.jp/main/html/rd/p/000000654.000037629.html",
       "publishedAt": "2025-05-13T04:00:02.000Z",
@@ -10476,11 +10519,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/654/resize/d37629-654-1421242900eb2846d4b0-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/654/resize/d37629-654-1421242900eb2846d4b0-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "検査AI、世界的に急増する日本製アニメフィギュア需要に検査の自動化で品質と生産性向上へ",
+      "title": "面对全球迅速增长的日本动漫手办需求，检测 AI 通过自动化质检提升品质与生产效率",
       "originalTitle": "検査AI、世界的に急増する日本製アニメフィギュア需要に検査の自動化で品質と生産性向上へ",
       "url": "https://prtimes.jp/main/html/rd/p/000000879.000042572.html",
       "publishedAt": "2025-05-13T01:00:04.000Z",
@@ -10489,11 +10533,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『ブルーアーカイブ -Blue Archive-』より、「アコ」が1/7スケールフィギュアになって登場！！",
+      "title": "《蔚蓝档案》推出亚子的1/7比例手办",
       "originalTitle": "『ブルーアーカイブ -Blue Archive-』より、「アコ」が1/7スケールフィギュアになって登場！！",
       "url": "https://prtimes.jp/main/html/rd/p/000000873.000042572.html",
       "publishedAt": "2025-05-08T03:10:38.000Z",
@@ -10502,11 +10547,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "株式会社マイム・コーポレーションとの資本提携について",
+      "title": "公布与 Maim Corporation 的资本合作",
       "originalTitle": "株式会社マイム・コーポレーションとの資本提携について",
       "url": "https://prtimes.jp/main/html/rd/p/000000877.000042572.html",
       "publishedAt": "2025-04-24T06:30:02.000Z",
@@ -10515,11 +10561,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "「推し活ピューロランドフェス×フラガリアメモリーズ」イベントレポートを公開",
+      "title": "“应援活动 Puroland Fest × Fragaria Memories”公开活动回顾",
       "originalTitle": "「推し活ピューロランドフェス×フラガリアメモリーズ」イベントレポートを公開",
       "url": "https://prtimes.jp/main/html/rd/p/000000653.000037629.html",
       "publishedAt": "2025-04-16T03:00:02.000Z",
@@ -10531,11 +10578,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/653/resize/d37629-653-fb3b05d863b617664559-0.png"
+      "thumbnail": "https://prtimes.jp/i/37629/653/resize/d37629-653-fb3b05d863b617664559-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "【速報・上位10位】「2025年サンリオキャラクター大賞」",
+      "title": "2025年三丽鸥角色大赏投票速报：前十名揭晓",
       "originalTitle": "【速報・上位10位】「2025年サンリオキャラクター大賞」",
       "url": "https://prtimes.jp/main/html/rd/p/000000652.000037629.html",
       "publishedAt": "2025-04-15T04:00:02.000Z",
@@ -10547,11 +10595,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/652/resize/d37629-652-44ed7257919458535d08-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/652/resize/d37629-652-44ed7257919458535d08-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気漫画『犬夜叉』より、「犬夜叉」「日暮かごめ」「殺生丸」が「HELLO! GOOD SMILE」シリーズから登場！",
+      "title": "漫画《犬夜叉》中的犬夜叉、日暮戈薇和杀生丸加入 HELLO! GOOD SMILE 系列",
       "originalTitle": "大人気漫画『犬夜叉』より、「犬夜叉」「日暮かごめ」「殺生丸」が「HELLO! GOOD SMILE」シリーズから登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000874.000042572.html",
       "publishedAt": "2025-04-11T03:15:06.000Z",
@@ -10561,7 +10610,8 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/874/resize/d42572-874-26c7394395f7af63b97f-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/874/resize/d42572-874-26c7394395f7af63b97f-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
