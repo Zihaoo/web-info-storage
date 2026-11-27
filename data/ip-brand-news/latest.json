@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "syncedAt": "2026-11-27T01:17:09.778Z",
+  "syncedAt": "2026-11-27T01:18:18.710Z",
   "health": [
     {
       "id": "gsc",
@@ -8278,7 +8278,7 @@
     },
     {
       "sourceId": "gsc",
-      "title": "Switchダウンロード版発売記念20％OFFセール開催中！「KANADE PCパッケージ版」が発売開始！Steam他、ダウンロードサイトでもセール中！",
+      "title": "庆祝 Switch 数字版发售，《KANADE》举办八折促销，PC 实体版开售，Steam 等下载平台也在打折",
       "originalTitle": "Switchダウンロード版発売記念20％OFFセール開催中！「KANADE PCパッケージ版」が発売開始！Steam他、ダウンロードサイトでもセール中！",
       "url": "https://prtimes.jp/main/html/rd/p/000000967.000042572.html",
       "publishedAt": "2025-12-23T03:30:01.000Z",
@@ -8288,11 +8288,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/967/resize/d42572-967-ed226dcbed93d572822b-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/967/resize/d42572-967-ed226dcbed93d572822b-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム』ステッカーセットが登場!!STRICT-G 多賀SA店限定にて、ひこにゃんコラボデザインも発売！",
+      "title": "《机动战士高达》推出贴纸套装，STRICT-G 多贺服务区店另售彦根喵联名限定款",
       "originalTitle": "『機動戦士ガンダム』ステッカーセットが登場!!STRICT-G 多賀SA店限定にて、ひこにゃんコラボデザインも発売！",
       "url": "https://prtimes.jp/main/html/rd/p/000000847.000055569.html",
       "publishedAt": "2025-12-23T01:30:02.000Z",
@@ -8303,11 +8304,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 鉄血のオルフェンズ』と、ジュエリーブランド「THE KISS」とのコラボによる、三日月とオルガをモチーフにしたシルバーリング商品が登場!!",
+      "title": "《机动战士高达 铁血的奥尔芬斯》与珠宝品牌 THE KISS 推出以三日月和奥尔加为灵感的联名银戒指",
       "originalTitle": "『機動戦士ガンダム 鉄血のオルフェンズ』と、ジュエリーブランド「THE KISS」とのコラボによる、三日月とオルガをモチーフにしたシルバーリング商品が登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000000846.000055569.html",
       "publishedAt": "2025-12-23T01:00:04.000Z",
@@ -8318,11 +8320,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "推し色をまとう“トキメキ”を。推し活×コスメが楽しめる『キャラコスメチケット』に、アイドリッシュセブンが登場！",
+      "title": "把应援色融入妆容：《偶像星愿》加入结合角色应援与彩妆的“角色彩妆票”系列",
       "originalTitle": "推し色をまとう“トキメキ”を。推し活×コスメが楽しめる『キャラコスメチケット』に、アイドリッシュセブンが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000845.000055569.html",
       "publishedAt": "2025-12-22T02:15:13.000Z",
@@ -8331,11 +8334,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気恋愛ADV『ネコぱら』シリーズのスマホ版リメイク『ネコぱら ラブプロジェクトVol.3』本日リリース！",
+      "title": "人气恋爱冒险游戏《猫娘乐园》系列手游重制版《猫娘乐园 Love Project Vol.3》今日上线",
       "originalTitle": "大人気恋愛ADV『ネコぱら』シリーズのスマホ版リメイク『ネコぱら ラブプロジェクトVol.3』本日リリース！",
       "url": "https://prtimes.jp/main/html/rd/p/000000966.000042572.html",
       "publishedAt": "2025-12-19T03:00:02.000Z",
@@ -8345,11 +8349,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/966/resize/d42572-966-d2c5240457dfe6de71ad-0.png"
+      "thumbnail": "https://prtimes.jp/i/42572/966/resize/d42572-966-d2c5240457dfe6de71ad-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 鉄血のオルフェンズ』よりオリジナルコレクションが登場！",
+      "title": "《机动战士高达 铁血的奥尔芬斯》推出原创系列商品",
       "originalTitle": "『機動戦士ガンダム 鉄血のオルフェンズ』よりオリジナルコレクションが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000844.000055569.html",
       "publishedAt": "2025-12-19T02:00:03.000Z",
@@ -8360,11 +8365,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "ピンズの新シリーズ「フェイスピンズコレクション」が登場！第一弾は『機動戦士ガンダム』『機動戦士Zガンダム』",
+      "title": "全新徽章系列“Face Pins Collection”登场，首弹来自《机动战士高达》与《机动战士Z高达》",
       "originalTitle": "ピンズの新シリーズ「フェイスピンズコレクション」が登場！第一弾は『機動戦士ガンダム』『機動戦士Zガンダム』",
       "url": "https://prtimes.jp/main/html/rd/p/000000843.000055569.html",
       "publishedAt": "2025-12-19T01:30:02.000Z",
@@ -8375,11 +8381,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "「NEW ERA(R)」×『機動戦士ガンダム』コレクションが登場！",
+      "title": "NEW ERA 与《机动战士高达》推出联名系列",
       "originalTitle": "「NEW ERA(R)」×『機動戦士ガンダム』コレクションが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000842.000055569.html",
       "publishedAt": "2025-12-19T01:00:03.000Z",
@@ -8390,11 +8397,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "グッスマオリジナルプロジェクト『VALKYRIE TUNE』、新作ゲームの最新情報を発表！キャラクターやキャスト情報、あらすじを公式サイトで公開中！",
+      "title": "Good Smile Company 原创企划《VALKYRIE TUNE》公布新作游戏情报，角色、配音阵容与剧情简介已在官网公开",
       "originalTitle": "グッスマオリジナルプロジェクト『VALKYRIE TUNE』、新作ゲームの最新情報を発表！キャラクターやキャスト情報、あらすじを公式サイトで公開中！",
       "url": "https://prtimes.jp/main/html/rd/p/000000965.000042572.html",
       "publishedAt": "2025-12-17T02:06:30.000Z",
@@ -8404,11 +8412,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/965/resize/d42572-965-69b17fe16d9f9c7004f0-0.png"
+      "thumbnail": "https://prtimes.jp/i/42572/965/resize/d42572-965-69b17fe16d9f9c7004f0-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ』より、ヴァルキューレ警察学校所属、公安局の局長「カンナ」がねんどろいどで登場です！",
+      "title": "《蔚蓝档案》推出瓦尔基里警察学校公安局局长康娜的黏土人",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ』より、ヴァルキューレ警察学校所属、公安局の局長「カンナ」がねんどろいどで登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000959.000042572.html",
       "publishedAt": "2025-12-16T03:03:19.000Z",
@@ -8418,11 +8427,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/959/resize/d42572-959-1969f2df231e3ccaa584-1.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/959/resize/d42572-959-1969f2df231e3ccaa584-1.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "アニメ「鬼滅の刃」よりイメージリングが登場！～竈門炭治郎・冨岡義勇・狛治＆恋雪をイメージした全3アイテム～",
+      "title": "动画《鬼灭之刃》推出三款角色主题戒指，分别以灶门炭治郎、富冈义勇、狛治与恋雪为灵感",
       "originalTitle": "アニメ「鬼滅の刃」よりイメージリングが登場！～竈門炭治郎・冨岡義勇・狛治＆恋雪をイメージした全3アイテム～",
       "url": "https://prtimes.jp/main/html/rd/p/000000841.000055569.html",
       "publishedAt": "2025-12-15T02:00:02.000Z",
@@ -8434,11 +8444,12 @@
       "brands": [
         "万代"
       ],
-      "thumbnail": "https://prtimes.jp/i/55569/841/resize/d55569-841-2a84f6de8d573f40a308-11.jpg"
+      "thumbnail": "https://prtimes.jp/i/55569/841/resize/d55569-841-2a84f6de8d573f40a308-11.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "放送10周年記念『機動戦士ガンダム 鉄血のオルフェンズ』より、筆絵タッチで描いたMS（モビルスーツ）Tシャツが登場！",
+      "title": "《机动战士高达 铁血的奥尔芬斯》开播十周年，推出毛笔画风机动战士 T 恤",
       "originalTitle": "放送10周年記念『機動戦士ガンダム 鉄血のオルフェンズ』より、筆絵タッチで描いたMS（モビルスーツ）Tシャツが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000839.000055569.html",
       "publishedAt": "2025-12-12T01:30:01.000Z",
@@ -8449,11 +8460,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム』よりシャア・アズナブルをイメージしたバッグが登場！ファッション性と機能性を高い次元で融合させたブランドmaster-pieceとの初コラボレーション",
+      "title": "《机动战士高达》首次与兼顾时尚与功能的品牌 master-piece 联名，推出夏亚·阿兹纳布尔主题包款",
       "originalTitle": "『機動戦士ガンダム』よりシャア・アズナブルをイメージしたバッグが登場！ファッション性と機能性を高い次元で融合させたブランドmaster-pieceとの初コラボレーション",
       "url": "https://prtimes.jp/main/html/rd/p/000000840.000055569.html",
       "publishedAt": "2025-12-12T01:00:02.000Z",
@@ -8464,11 +8476,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "ポムポムプリン30周年アニバーサリーイヤーが2026年よりスタート！2000万回再生のヒット“ポムポムビート☆”を超える！？新曲「ポムポムPow」のMVを12/11(木)19時より公開",
+      "title": "布丁狗30周年纪念年将于2026年开启，新歌《ポムポムPow》MV 将于12月11日（周四）19点公开，能否超越播放量达2000万次的《ポムポムビート☆》？",
       "originalTitle": "ポムポムプリン30周年アニバーサリーイヤーが2026年よりスタート！2000万回再生のヒット“ポムポムビート☆”を超える！？新曲「ポムポムPow」のMVを12/11(木)19時より公開",
       "url": "https://prtimes.jp/main/html/rd/p/000000707.000037629.html",
       "publishedAt": "2025-12-11T10:00:01.000Z",
@@ -8480,11 +8493,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/707/resize/d37629-707-2a9a97a95ae07224e03c-0.png"
+      "thumbnail": "https://prtimes.jp/i/37629/707/resize/d37629-707-2a9a97a95ae07224e03c-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "メカスマが贈るロボットトイ『BRICKROID (ブリックロイド)』からマジンガーZ、鉄人28号のキャラクターが登場！",
+      "title": "MECHA SMILE 机器人玩具系列 BRICKROID 推出魔神Z和铁人28号",
       "originalTitle": "メカスマが贈るロボットトイ『BRICKROID (ブリックロイド)』からマジンガーZ、鉄人28号のキャラクターが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000960.000042572.html",
       "publishedAt": "2025-12-11T03:07:11.000Z",
@@ -8494,11 +8508,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/960/resize/d42572-960-43bb58d8a648165751bd-9.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/960/resize/d42572-960-43bb58d8a648165751bd-9.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "男性キャラクターに特化したフィギュア・グッズのブランド『オランジュ・ルージュ 』10周年展をアニメイト池袋本店7F SOUTHで開催！",
+      "title": "专注男性角色手办及周边的品牌 ORANGE ROUGE 将在 animate 池袋总店7楼 SOUTH 举办十周年展",
       "originalTitle": "男性キャラクターに特化したフィギュア・グッズのブランド『オランジュ・ルージュ 』10周年展をアニメイト池袋本店7F SOUTHで開催！",
       "url": "https://prtimes.jp/main/html/rd/p/000000952.000042572.html",
       "publishedAt": "2025-12-10T08:11:16.000Z",
@@ -8508,11 +8523,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/952/resize/d42572-952-2b2e339b07c55441bbf5-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/952/resize/d42572-952-2b2e339b07c55441bbf5-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "「みんななかよく」の想いを込めたミュージアム「山梨いちごの王さまミュージアム サンリオ創業者 辻信太郎記念館」2026年4 月・山梨県甲斐市にオープン",
+      "title": "寄托“大家和睦相处”理念的“山梨草莓国王博物馆——三丽鸥创始人辻信太郎纪念馆”将于2026年4月在山梨县甲斐市开馆",
       "originalTitle": "「みんななかよく」の想いを込めたミュージアム「山梨いちごの王さまミュージアム サンリオ創業者 辻信太郎記念館」2026年4 月・山梨県甲斐市にオープン",
       "url": "https://prtimes.jp/main/html/rd/p/000000706.000037629.html",
       "publishedAt": "2025-12-10T01:00:04.000Z",
@@ -8524,11 +8540,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/706/resize/d37629-706-44515bfb4c2c351d543b-10.png"
+      "thumbnail": "https://prtimes.jp/i/37629/706/resize/d37629-706-44515bfb4c2c351d543b-10.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "東宝株式会社との合弁会社、To-Smile株式会社の設立に関するお知らせ",
+      "title": "宣布与东宝株式会社设立合资公司 To-Smile",
       "originalTitle": "東宝株式会社との合弁会社、To-Smile株式会社の設立に関するお知らせ",
       "url": "https://prtimes.jp/main/html/rd/p/000000961.000042572.html",
       "publishedAt": "2025-12-09T06:30:02.000Z",
@@ -8537,11 +8554,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "スマ-トフォンゲーム『東京リベンジャーズUNLIMITED（アンリベ）』が『東京リベンジャーズ 相棒零泥威悪』アンリベ特別コーナーにて最新情報を公開 ！",
+      "title": "手游《东京复仇者 UNLIMITED》在《东京复仇者 相棒零泥威恶》的游戏特别环节公开最新情报",
       "originalTitle": "スマ-トフォンゲーム『東京リベンジャーズUNLIMITED（アンリベ）』が『東京リベンジャーズ 相棒零泥威悪』アンリベ特別コーナーにて最新情報を公開 ！",
       "url": "https://prtimes.jp/main/html/rd/p/000000957.000042572.html",
       "publishedAt": "2025-12-09T03:00:02.000Z",
@@ -8550,11 +8568,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "放映10周年『機動戦士ガンダム 鉄血のオルフェンズ』より、カプセルコレクション登場！",
+      "title": "《机动战士高达 铁血的奥尔芬斯》开播十周年，推出胶囊系列",
       "originalTitle": "放映10周年『機動戦士ガンダム 鉄血のオルフェンズ』より、カプセルコレクション登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000838.000055569.html",
       "publishedAt": "2025-12-09T01:00:03.000Z",
@@ -8566,11 +8585,12 @@
       "brands": [
         "万代"
       ],
-      "thumbnail": "https://prtimes.jp/i/55569/838/resize/d55569-838-2a298e819296b8b059ca-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/55569/838/resize/d55569-838-2a298e819296b8b059ca-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "世界でいちばんやさしい場所へ　サンリオ及びサンリオエンターテイメント、大分県ハーモニーランドの「エンタメリゾート化」始動",
+      "title": "打造“世界上最温柔的地方”：三丽鸥与三丽鸥娱乐启动大分县 Harmonyland 娱乐度假区改造计划",
       "originalTitle": "世界でいちばんやさしい場所へ　サンリオ及びサンリオエンターテイメント、大分県ハーモニーランドの「エンタメリゾート化」始動",
       "url": "https://prtimes.jp/main/html/rd/p/000000705.000037629.html",
       "publishedAt": "2025-12-08T03:18:32.000Z",
@@ -8582,11 +8602,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/705/resize/d37629-705-9707e4fd8715b8ee1527-13.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/705/resize/d37629-705-9707e4fd8715b8ee1527-13.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士Gundam GQuuuuuuX』×Reebok INSTAPUMP FURY 94（インスタポンプ フューリー 94)が登場！",
+      "title": "《机动战士Gundam GQuuuuuuX》与锐步推出 INSTAPUMP FURY 94 联名鞋",
       "originalTitle": "『機動戦士Gundam GQuuuuuuX』×Reebok INSTAPUMP FURY 94（インスタポンプ フューリー 94)が登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000837.000055569.html",
       "publishedAt": "2025-12-08T01:00:03.000Z",
@@ -8597,11 +8618,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士Zガンダム』、『機動戦士ガンダム 鉄血のオルフェンズ』より、ボアジャケットが登場！",
+      "title": "《机动战士Z高达》《机动战士高达 铁血的奥尔芬斯》推出绒毛夹克",
       "originalTitle": "『機動戦士Zガンダム』、『機動戦士ガンダム 鉄血のオルフェンズ』より、ボアジャケットが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000834.000055569.html",
       "publishedAt": "2025-12-05T01:30:02.000Z",
@@ -8612,11 +8634,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "Netflixシリーズ　「My Melody & Kuromi」が、第8回アジアン・アカデミー・クリエイティブ・アワード2025　最優秀アニメーション賞を受賞！",
+      "title": "Netflix 剧集《美乐蒂与酷洛米》获2025年第八届亚洲创意学院奖最佳动画奖",
       "originalTitle": "Netflixシリーズ　「My Melody & Kuromi」が、第8回アジアン・アカデミー・クリエイティブ・アワード2025　最優秀アニメーション賞を受賞！",
       "url": "https://prtimes.jp/main/html/rd/p/000000704.000037629.html",
       "publishedAt": "2025-12-05T01:10:02.000Z",
@@ -8628,11 +8651,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/704/resize/d37629-704-87c89362fe8c68ce6561-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/704/resize/d37629-704-87c89362fe8c68ce6561-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "インド映画『バーフバリ』×プレミアムバンダイのコラボがついに結願！40cm超の巨大アクスタや映画の世界に入り込めるタオル、『有給休暇中』アクスタなど展開。",
+      "title": "印度电影《巴霍巴利王》与 Premium Bandai 推出联名周边，包括高逾40厘米的巨型亚克力立牌、带来电影沉浸感的毛巾和“带薪休假中”立牌",
       "originalTitle": "インド映画『バーフバリ』×プレミアムバンダイのコラボがついに結願！40cm超の巨大アクスタや映画の世界に入り込めるタオル、『有給休暇中』アクスタなど展開。",
       "url": "https://prtimes.jp/main/html/rd/p/000000832.000055569.html",
       "publishedAt": "2025-12-05T01:10:02.000Z",
@@ -8642,11 +8666,12 @@
       "brands": [
         "万代"
       ],
-      "thumbnail": "https://prtimes.jp/i/55569/832/resize/d55569-832-03ffd262ab6856126465-31.jpg"
+      "thumbnail": "https://prtimes.jp/i/55569/832/resize/d55569-832-03ffd262ab6856126465-31.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 逆襲のシャア』、『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より、大正二年創業の老舗、宮田織物とのコラボによる「わた入れ半纏（はんてん）」が登場!",
+      "title": "《机动战士高达 逆袭的夏亚》《机动战士高达 闪光的哈萨维 喀耳刻的魔女》与创立于大正二年的老字号宫田织物联名推出日式夹棉半缠外套",
       "originalTitle": "『機動戦士ガンダム 逆襲のシャア』、『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より、大正二年創業の老舗、宮田織物とのコラボによる「わた入れ半纏（はんてん）」が登場!",
       "url": "https://prtimes.jp/main/html/rd/p/000000833.000055569.html",
       "publishedAt": "2025-12-05T01:00:04.000Z",
@@ -8657,11 +8682,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "STRICT-G『新機動戦記ガンダムW』30周年を記念したヒイロ＆リリーナのピンズ商品登場!!",
+      "title": "STRICT-G 推出《新机动战记高达W》30周年纪念希罗与莉莉娜徽章",
       "originalTitle": "STRICT-G『新機動戦記ガンダムW』30周年を記念したヒイロ＆リリーナのピンズ商品登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000000830.000055569.html",
       "publishedAt": "2025-12-04T02:00:03.000Z",
@@ -8672,11 +8698,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 閃光のハサウェイ』より、革職人が作る確かな品質の日本製ブランド“AGILITY”とのコラボによる、革小物コレクションが登場!!",
+      "title": "《机动战士高达 闪光的哈萨维》与日本品牌 AGILITY 推出由皮匠制作的联名皮革小物",
       "originalTitle": "『機動戦士ガンダム 閃光のハサウェイ』より、革職人が作る確かな品質の日本製ブランド“AGILITY”とのコラボによる、革小物コレクションが登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000000829.000055569.html",
       "publishedAt": "2025-12-04T01:30:01.000Z",
@@ -8687,11 +8714,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "放送30周年記念『新機動戦記ガンダムW』より、筆絵タッチで描いたMS（モビルスーツ）Tシャツが登場！",
+      "title": "《新机动战记高达W》开播30周年，推出毛笔画风机动战士 T 恤",
       "originalTitle": "放送30周年記念『新機動戦記ガンダムW』より、筆絵タッチで描いたMS（モビルスーツ）Tシャツが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000828.000055569.html",
       "publishedAt": "2025-12-04T01:00:04.000Z",
@@ -8702,11 +8730,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "サンリオ、スタジオカナルおよびヘイデイ・フィルムズによる「ミスターメン リトルミス」映画の制作始動を発表",
+      "title": "三丽鸥宣布 STUDIOCANAL 与 Heyday Films 启动《奇先生妙小姐》电影制作",
       "originalTitle": "サンリオ、スタジオカナルおよびヘイデイ・フィルムズによる「ミスターメン リトルミス」映画の制作始動を発表",
       "url": "https://prtimes.jp/main/html/rd/p/000000703.000037629.html",
       "publishedAt": "2025-12-03T08:50:01.000Z",
@@ -8718,11 +8747,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/703/resize/d37629-703-e23d119641e6109a76ba-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/703/resize/d37629-703-e23d119641e6109a76ba-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『美少女戦士セーラームーン』より歴代変身アイテムモチーフのリップ＆チークが登場",
+      "title": "《美少女战士》推出以历代变身道具为灵感的唇颊两用彩妆",
       "originalTitle": "『美少女戦士セーラームーン』より歴代変身アイテムモチーフのリップ＆チークが登場",
       "url": "https://prtimes.jp/main/html/rd/p/000000831.000055569.html",
       "publishedAt": "2025-12-03T04:00:02.000Z",
@@ -8731,11 +8761,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士Gundam GQuuuuuuX』より、革職人が作る確かな品質の日本製ブランド“AGILITY”とのコラボによる、革小物コレクションが登場!!",
+      "title": "《机动战士Gundam GQuuuuuuX》与日本品牌 AGILITY 推出由皮匠制作的联名皮革小物",
       "originalTitle": "『機動戦士Gundam GQuuuuuuX』より、革職人が作る確かな品質の日本製ブランド“AGILITY”とのコラボによる、革小物コレクションが登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000000825.000055569.html",
       "publishedAt": "2025-12-03T02:00:03.000Z",
@@ -8746,11 +8777,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム』より、ストリートテイストの「STRICT-G NEW YARK」ロングスリーブTシャツ、スウェット等が登場！",
+      "title": "《机动战士高达》街头风系列 STRICT-G NEW YARK 推出长袖 T 恤、卫衣等新品",
       "originalTitle": "『機動戦士ガンダム』より、ストリートテイストの「STRICT-G NEW YARK」ロングスリーブTシャツ、スウェット等が登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000827.000055569.html",
       "publishedAt": "2025-12-03T01:30:02.000Z",
@@ -8761,11 +8793,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』カプセルコレクションが登場！",
+      "title": "《机动战士高达 闪光的哈萨维 喀耳刻的魔女》推出胶囊系列",
       "originalTitle": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』カプセルコレクションが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000826.000055569.html",
       "publishedAt": "2025-12-03T01:17:25.000Z",
@@ -8776,11 +8809,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "あの人気企画が再び！「ねんどろいど再販サミット」第2回開催！",
+      "title": "人气企划回归，第二届“黏土人再版峰会”确定举办",
       "originalTitle": "あの人気企画が再び！「ねんどろいど再販サミット」第2回開催！",
       "url": "https://prtimes.jp/main/html/rd/p/000000958.000042572.html",
       "publishedAt": "2025-12-02T07:19:08.000Z",
@@ -8790,11 +8824,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/958/resize/d42572-958-d8ceb90b4622bf7cdca7-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/958/resize/d42572-958-d8ceb90b4622bf7cdca7-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『アイドルマスター シンデレラガールズ』とgladgarbがコラボレーション！ユニット「ミステリアスアイズ」より6アイテムが登場！",
+      "title": "《偶像大师 灰姑娘女孩》与 gladgarb 联名推出“Mysterious Eyes”组合主题的六款商品",
       "originalTitle": "『アイドルマスター シンデレラガールズ』とgladgarbがコラボレーション！ユニット「ミステリアスアイズ」より6アイテムが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000823.000055569.html",
       "publishedAt": "2025-11-28T03:40:02.000Z",
@@ -8804,11 +8839,12 @@
       "brands": [
         "万代"
       ],
-      "thumbnail": "https://prtimes.jp/i/55569/823/resize/d55569-823-2f63ab1fab213cd5d727-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/55569/823/resize/d55569-823-2f63ab1fab213cd5d727-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ』より、ミレニアムサイエンススクール所属、秘密組織「C&C」のエージェント「アカネ」がねんどろいどで登場です！",
+      "title": "《蔚蓝档案》推出千年科学学园秘密组织 C&C 特工朱音的黏土人",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ』より、ミレニアムサイエンススクール所属、秘密組織「C&C」のエージェント「アカネ」がねんどろいどで登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000955.000042572.html",
       "publishedAt": "2025-11-28T03:11:06.000Z",
@@ -8818,11 +8854,12 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/955/resize/d42572-955-f98ee8bf95da1b89ede4-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/955/resize/d42572-955-f98ee8bf95da1b89ede4-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『ブルーアーカイブ -Blue Archive-』より、「マリー（アイドル）」がスケールフィギュアになって登場！！",
+      "title": "《蔚蓝档案》推出玛丽（偶像）比例手办",
       "originalTitle": "『ブルーアーカイブ -Blue Archive-』より、「マリー（アイドル）」がスケールフィギュアになって登場！！",
       "url": "https://prtimes.jp/main/html/rd/p/000000956.000042572.html",
       "publishedAt": "2025-11-28T03:08:38.000Z",
@@ -8831,11 +8868,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "おふろでやせいのポケモンに出会う体験ができる新しい「びっくらたまご」が登場!!",
+      "title": "全新“びっくらたまご”入浴球登场，让你在泡澡时邂逅野生宝可梦",
       "originalTitle": "おふろでやせいのポケモンに出会う体験ができる新しい「びっくらたまご」が登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000000822.000055569.html",
       "publishedAt": "2025-11-28T01:10:01.000Z",
@@ -8846,11 +8884,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『新機動戦記ガンダムW』よりMSデフォルメTシャツ＆トートバッグ＆ラバーキーホルダーが登場！",
+      "title": "《新机动战记高达W》推出 Q 版机动战士 T 恤、托特包及橡胶钥匙扣",
       "originalTitle": "『新機動戦記ガンダムW』よりMSデフォルメTシャツ＆トートバッグ＆ラバーキーホルダーが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000821.000055569.html",
       "publishedAt": "2025-11-28T01:00:03.000Z",
@@ -8861,11 +8900,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "“進化し続ける”常設型VRテーマパーク「Virtual Sanrio Puroland」 12月11日(木)オープン",
+      "title": "持续更新的常设 VR 主题乐园 Virtual Sanrio Puroland 将于12月11日（周四）开放",
       "originalTitle": "“進化し続ける”常設型VRテーマパーク「Virtual Sanrio Puroland」 12月11日(木)オープン",
       "url": "https://prtimes.jp/main/html/rd/p/000000702.000037629.html",
       "publishedAt": "2025-11-27T02:00:03.000Z",
@@ -8877,11 +8917,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/702/resize/d37629-702-1518359eee0210a21133-0.png"
+      "thumbnail": "https://prtimes.jp/i/37629/702/resize/d37629-702-1518359eee0210a21133-0.png",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士Zガンダム』『機動戦士ガンダム 逆襲のシャア』『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より寝具メーカー“nishikawa”のアップサイクルダウン使用のダウンジャケットが登場！",
+      "title": "《机动战士Z高达》《机动战士高达 逆袭的夏亚》《机动战士高达 闪光的哈萨维 喀耳刻的魔女》推出使用寝具品牌 nishikawa 再生羽绒的羽绒服",
       "originalTitle": "『機動戦士Zガンダム』『機動戦士ガンダム 逆襲のシャア』『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』より寝具メーカー“nishikawa”のアップサイクルダウン使用のダウンジャケットが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000820.000055569.html",
       "publishedAt": "2025-11-27T01:30:02.000Z",
@@ -8892,11 +8933,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "STRICT-G『機動戦士ガンダム』ハロWinter Collectionアイテム登場!!",
+      "title": "STRICT-G 推出《机动战士高达》哈罗冬季系列商品",
       "originalTitle": "STRICT-G『機動戦士ガンダム』ハロWinter Collectionアイテム登場!!",
       "url": "https://prtimes.jp/main/html/rd/p/000000819.000055569.html",
       "publishedAt": "2025-11-27T01:00:04.000Z",
@@ -8907,11 +8949,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "sanrio",
-      "title": "リトルツインスターズ(キキ＆ララ)50周年&バースデー記念！ 「星空のエンジェルデザインシリーズ」を12月4日より発売",
+      "title": "双子星（Kiki 与 Lala）庆祝50周年与生日，“星空天使设计系列”将于12月4日起发售",
       "originalTitle": "リトルツインスターズ(キキ＆ララ)50周年&バースデー記念！ 「星空のエンジェルデザインシリーズ」を12月4日より発売",
       "url": "https://prtimes.jp/main/html/rd/p/000000701.000037629.html",
       "publishedAt": "2025-11-26T01:00:03.000Z",
@@ -8923,11 +8966,12 @@
       "brands": [
         "三丽鸥"
       ],
-      "thumbnail": "https://prtimes.jp/i/37629/701/resize/d37629-701-8692e23ae62fd3239e44-3.jpg"
+      "thumbnail": "https://prtimes.jp/i/37629/701/resize/d37629-701-8692e23ae62fd3239e44-3.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム 鉄血のオルフェンズ』から裏面に別珍素材を使用した大胆な刺繍デザインが際立つリバーシブル仕様のスカジャンが登場！",
+      "title": "《机动战士高达 铁血的奥尔芬斯》推出双面横须贺夹克，反面采用平绒面料，搭配醒目刺绣",
       "originalTitle": "『機動戦士ガンダム 鉄血のオルフェンズ』から裏面に別珍素材を使用した大胆な刺繍デザインが際立つリバーシブル仕様のスカジャンが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000818.000055569.html",
       "publishedAt": "2025-11-26T01:00:03.000Z",
@@ -8938,11 +8982,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "『機動戦士ガンダム SEED FREEDOM』カプセルコレクションが登場！",
+      "title": "《机动战士高达SEED FREEDOM》推出胶囊系列",
       "originalTitle": "『機動戦士ガンダム SEED FREEDOM』カプセルコレクションが登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000815.000055569.html",
       "publishedAt": "2025-11-21T01:15:27.000Z",
@@ -8953,11 +8998,12 @@
       ],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "アンパンマン・だだんだんの大きなお顔アップリケが目を引くトレーナーや、ヘチマ襟が可愛らしいアウターなどの新作が続々登場！さらに入園入学準備にぴったりのリュックや巾着も！",
+      "title": "面包超人系列接连推出带面包超人及哒哒机甲大脸贴布的卫衣、青果领外套等新品，另有适合入园入学的双肩包和束口袋",
       "originalTitle": "アンパンマン・だだんだんの大きなお顔アップリケが目を引くトレーナーや、ヘチマ襟が可愛らしいアウターなどの新作が続々登場！さらに入園入学準備にぴったりのリュックや巾着も！",
       "url": "https://prtimes.jp/main/html/rd/p/000000817.000055569.html",
       "publishedAt": "2025-11-21T01:00:03.000Z",
@@ -8966,11 +9012,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
-      "title": "Samantha Thavasa Petit Choice×TVアニメ『僕のヒーローアカデミア』とのコラボコレクションが初登場！！",
+      "title": "Samantha Thavasa Petit Choice 首次与电视动画《我的英雄学院》推出联名系列",
       "originalTitle": "Samantha Thavasa Petit Choice×TVアニメ『僕のヒーローアカデミア』とのコラボコレクションが初登場！！",
       "url": "https://prtimes.jp/main/html/rd/p/000000816.000055569.html",
       "publishedAt": "2025-11-20T03:00:03.000Z",
@@ -8979,11 +9026,12 @@
       "ips": [],
       "brands": [
         "万代"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "『ブルーアーカイブ -Blue Archive-』より、「ナツ（バンド） イベントKV」「ヨシミ（バンド） イベントKV」がPOP UP PARADEになって登場！！",
+      "title": "《蔚蓝档案》推出以活动主视觉图为原型的夏（乐队）与喜美（乐队）POP UP PARADE 手办",
       "originalTitle": "『ブルーアーカイブ -Blue Archive-』より、「ナツ（バンド） イベントKV」「ヨシミ（バンド） イベントKV」がPOP UP PARADEになって登場！！",
       "url": "https://prtimes.jp/main/html/rd/p/000000944.000042572.html",
       "publishedAt": "2025-11-14T03:16:04.000Z",
@@ -8992,11 +9040,12 @@
       "ips": [],
       "brands": [
         "GSC"
-      ]
+      ],
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "gsc",
-      "title": "大人気ゲーム『ブルーアーカイブ -Blue Archive-』より、シッテムの箱の中に存在する少女「アロナ」がねんどろいどで再登場です！",
+      "title": "《蔚蓝档案》中生活在什亭之匣内的少女阿罗娜再度推出黏土人",
       "originalTitle": "大人気ゲーム『ブルーアーカイブ -Blue Archive-』より、シッテムの箱の中に存在する少女「アロナ」がねんどろいどで再登場です！",
       "url": "https://prtimes.jp/main/html/rd/p/000000950.000042572.html",
       "publishedAt": "2025-11-14T03:11:25.000Z",
@@ -9006,7 +9055,8 @@
       "brands": [
         "GSC"
       ],
-      "thumbnail": "https://prtimes.jp/i/42572/950/resize/d42572-950-82d70dab1aba1bf45884-0.jpg"
+      "thumbnail": "https://prtimes.jp/i/42572/950/resize/d42572-950-82d70dab1aba1bf45884-0.jpg",
+      "translation": "GPT 翻译"
     },
     {
       "sourceId": "bandai",
