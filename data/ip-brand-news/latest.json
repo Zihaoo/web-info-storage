@@ -1,33 +1,123 @@
 {
   "schemaVersion": 1,
-  "syncedAt": "2026-11-27T01:23:18.720Z",
+  "syncedAt": "2026-11-28T01:06:40.300Z",
   "health": [
     {
       "id": "gsc",
-      "attempt": "2026-11-27T01:02:55.042Z",
-      "success": "2026-11-27T01:02:55.042Z",
+      "attempt": "2026-11-28T01:06:01.067Z",
+      "success": "2026-11-28T01:06:01.067Z",
       "error": null
     },
     {
       "id": "bandai",
-      "attempt": "2026-11-27T01:02:55.042Z",
-      "success": "2026-11-27T01:02:55.042Z",
+      "attempt": "2026-11-28T01:06:01.067Z",
+      "success": "2026-11-28T01:06:01.067Z",
       "error": null
     },
     {
       "id": "sanrio",
-      "attempt": "2026-11-27T01:02:55.042Z",
-      "success": "2026-11-27T01:02:55.042Z",
+      "attempt": "2026-11-28T01:06:01.067Z",
+      "success": "2026-11-28T01:06:01.067Z",
       "error": null
     },
     {
       "id": "amnibus",
-      "attempt": "2026-11-27T01:02:55.042Z",
-      "success": "2026-11-27T01:02:55.042Z",
+      "attempt": "2026-11-28T01:06:01.067Z",
+      "success": "2026-11-28T01:06:01.067Z",
       "error": null
     }
   ],
   "articles": [
+    {
+      "sourceId": "amnibus",
+      "title": "AMNIBUS 将在韩国 Anime X Game Festival 2026 的 ANIPLUS 展位发售电视动画《更衣人偶坠入爱河》第二季的人气周边",
+      "originalTitle": "TVアニメ「その着せ替え人形は恋をする」Season 2の人気商品を、AMNIBUSが韓国開催の「Anime X Game Festival 2026」のANIPLUSブースにて販売！",
+      "url": "https://prtimes.jp/main/html/rd/p/000009893.000016064.html",
+      "publishedAt": "2026-11-27T11:00:02.000Z",
+      "region": "日本",
+      "type": "活动",
+      "ips": [],
+      "brands": [
+        "AMNIBUS",
+        "ARMABIANCA"
+      ],
+      "translation": "GPT 翻译"
+    },
+    {
+      "sourceId": "amnibus",
+      "title": "AMNIBUS 将参展 Jump Festa 2027，抢先发售多款采用《鼻毛真拳》全新绘图的周边",
+      "originalTitle": "「AMNIBUS」が「ジャンプフェスタ2027」に出展決定！『ボボボーボ・ボーボボ』の新規描き下ろし商品を多数先行販売いたします！",
+      "url": "https://prtimes.jp/main/html/rd/p/000009876.000016064.html",
+      "publishedAt": "2026-11-27T06:00:02.000Z",
+      "region": "日本",
+      "type": "其他",
+      "ips": [],
+      "brands": [
+        "AMNIBUS",
+        "ARMABIANCA"
+      ],
+      "translation": "GPT 翻译"
+    },
+    {
+      "sourceId": "amnibus",
+      "title": "动画《约会大作战》第五季将在丸井举办快闪店",
+      "originalTitle": "アニメ「デート・ア・ライブV」POP UP SHOP in マルイの開催が決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000009819.000016064.html",
+      "publishedAt": "2026-11-27T03:00:02.000Z",
+      "region": "日本",
+      "type": "活动",
+      "ips": [],
+      "brands": [
+        "AMNIBUS",
+        "ARMABIANCA"
+      ],
+      "translation": "GPT 翻译"
+    },
+    {
+      "sourceId": "amnibus",
+      "title": "电视动画《梦色糕点师》将在 LOFT 举办快闪店",
+      "originalTitle": "「TVアニメ『夢色パティシエール』POP UP STORE in ロフト」の開催が決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000009827.000016064.html",
+      "publishedAt": "2026-11-27T03:00:02.000Z",
+      "region": "日本",
+      "type": "活动",
+      "ips": [],
+      "brands": [
+        "AMNIBUS",
+        "ARMABIANCA"
+      ],
+      "translation": "GPT 翻译"
+    },
+    {
+      "sourceId": "amnibus",
+      "title": "《军火女王》将与英式酒吧 HUB 举办联动活动",
+      "originalTitle": "【ヨルムンガンド × 英国風PUB「HUB」】が開催決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000009857.000016064.html",
+      "publishedAt": "2026-11-27T03:00:02.000Z",
+      "region": "日本",
+      "type": "活动",
+      "ips": [],
+      "brands": [
+        "AMNIBUS",
+        "ARMABIANCA"
+      ],
+      "translation": "GPT 翻译"
+    },
+    {
+      "thumbnail": "https://prtimes.jp/i/55569/1076/resize/d55569-1076-aa5e38fed53d8d7cbe46-29.jpg",
+      "sourceId": "bandai",
+      "title": "《嘟嘟脸恶作剧》推出7款特大亚克力立牌，包括スピキ，高约40厘米至超过50厘米，采用“没那么糊”的全新绘图；可拼接立牌中还出现了意想不到的“教主”等角色",
+      "originalTitle": "『トリッカル・もちもちほっペ大作戦』約40～50cm超の特大アクスタを新たに描き起こした“そんなにガビガビしてない画質”でスピキなど7種を展開！つながるアクスタにはまさかの“教主”などが登場！",
+      "url": "https://prtimes.jp/main/html/rd/p/000001076.000055569.html",
+      "publishedAt": "2026-11-27T02:03:25.000Z",
+      "region": "日本",
+      "type": "其他",
+      "ips": [],
+      "brands": [
+        "万代"
+      ],
+      "translation": "GPT 翻译"
+    },
     {
       "sourceId": "bandai",
       "title": "《机动战士高达ZZ》开播40周年，推出收藏徽章套装",
