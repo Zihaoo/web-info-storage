@@ -151,6 +151,32 @@
       "price": "现场票 298 元，VIP 票 398 元",
       "sourceUrl": "https://www.showstart.com/event/315766",
       "updates": []
+    },
+    {
+      "id": "99god-shanghai-20261211",
+      "artist": "99 God、王以太、Yaka",
+      "title": "99 God「飞1999」上海专场",
+      "date": "2026-12-11",
+      "time": "20:30",
+      "venue": "GT·CH8 LIVE（上海店）",
+      "district": "普陀区",
+      "genre": "Hip-Hop",
+      "price": "普通票 199 元，VIP 票 299 元",
+      "sourceUrl": "https://www.showstart.com/event/314906",
+      "updates": []
+    },
+    {
+      "id": "kuzu-mellow-shanghai-20261225",
+      "artist": "KUZU MELLOW、福来",
+      "title": "KUZU MELLOW 巡演上海站",
+      "date": "2026-12-25",
+      "time": "20:00",
+      "venue": "CAVE ART VENUE",
+      "district": "长宁区",
+      "genre": "Lofi Hip-Hop",
+      "price": "早鸟票 180 元，预售票 198 元，全价票 238 元，早鸟双人票 340 元，双人票 370 元",
+      "sourceUrl": "https://www.showstart.com/event/315671",
+      "updates": []
     }
   ]
 }
